@@ -1,0 +1,12 @@
+,,예측,,,,,,,
+,,vip,diamond,normal,,CLASSIFICATION,,,MACHINE LEARNING
+정답,vip,733,19,-,752,accuracy = 정답 개수/ 전체 개수,0.9885,,"MAE, RMSE"
+,diamond,-,3453,-,3453,,,,
+,normal,-,50,1745,1795,,,,
+,,733,3522,1745,,,,,
+,,,,,,,,,
+,,,,,,,,,
+precision,,1,0.980408859,1,,,,,
+recall,,0.974734043,1,0.972144847,,,,,
+f1-score,,0.987205387,0.990107527,0.985875706,,,,,
+2*(precision*recall)/precision+recall,,,,,,,,,

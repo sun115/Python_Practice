@@ -1,0 +1,974 @@
+,Opportunity Number,Supplies Subgroup,Supplies Group,Region,Route To Market,Elapsed Days In Sales Stage,Opportunity Result,Sales Stage Change Count,Total Days Identified Through Closing,Total Days Identified Through Qualified,Opportunity Amount USD,Client Size By Revenue,Client Size By Employee Count,Revenue From Client Past Two Years,Competitor Type,Ratio Days Identified To Total Days,Ratio Days Validated To Total Days,Ratio Days Qualified To Total Days,Deal Size Category,Route_enco,Oppt_enco,Cmpt_enco
+45815,5207806,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,6,37,37,0,1,5,0,Unknown,0.221622,0.051351,0.7270270000000001,1,0,1,2
+45872,5385507,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,90,Loss,11,41,41,12000,1,1,0,Unknown,0.35194200000000003,0.648058,0.0,2,2,0,2
+45947,5540475,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Loss,6,43,43,25000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+46085,5726954,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,91,Loss,2,45,45,100000,1,1,0,Unknown,0.0,1.0,0.0,5,2,0,2
+46090,5727186,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,23,Won,4,10,10,13000,3,2,0,Unknown,0.0,0.029703,0.970297,2,2,1,2
+46120,5752782,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,6,45,45,150000,1,3,0,None,0.376392,0.053452,0.570156,5,0,0,1
+46158,5783118,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,91,Won,5,43,39,200000,1,1,0,Known,0.011765,0.362353,0.545882,5,0,1,0
+46204,5812488,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,73,Won,6,59,51,212000,1,5,0,Known,0.469388,0.139456,0.25,5,0,1,0
+46217,5819505,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Won,5,17,17,95000,1,1,0,Unknown,0.0,0.789157,0.210843,4,2,1,2
+46229,5825428,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,65,Loss,6,67,67,100000,1,1,0,Unknown,0.66015,0.04812,0.291729,5,0,0,2
+46331,5876211,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,4,67,67,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+46335,5879501,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,86,Won,5,42,42,26000,5,3,3,Unknown,0.0,0.052133000000000006,0.947867,3,2,1,2
+46339,5882456,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,64,Loss,13,42,40,40000,1,3,0,Unknown,0.0,0.009639,0.956627,3,2,0,2
+46391,5901040,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Loss,6,42,42,50000,1,1,0,Unknown,0.286747,0.713253,0.0,4,2,0,2
+46410,5913693,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,71,Loss,7,45,45,150000,5,1,0,Known,0.409396,0.33557,0.25503400000000004,5,0,0,0
+46411,5913720,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,87,Loss,3,40,40,100000,4,1,0,Unknown,0.39,0.61,0.0,5,0,0,2
+46418,5917040,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Won,3,1,1,15031,2,1,0,Unknown,0.0,1.0,0.0,2,2,1,2
+46454,5930349,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,3,36,36,150000,4,5,0,Known,0.158774,0.841226,0.0,5,0,0,0
+46456,5930431,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,84,Loss,5,40,40,150000,5,1,0,Known,0.105528,0.266332,0.628141,5,0,0,0
+46554,5973418,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,8,55,55,59000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+46622,5988655,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,83,Loss,4,41,41,70000,1,2,0,Unknown,0.046229,0.953771,0.0,4,0,0,2
+46647,5995401,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,87,Loss,3,37,37,300000,1,5,4,Known,0.406417,0.593583,0.0,6,0,0,0
+46759,6024253,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,23,Won,3,5,5,20000,3,3,0,Unknown,0.0,1.0,0.0,2,2,1,2
+46778,6027554,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,2,33,33,100001,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+46796,6031888,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,76,Loss,4,47,47,100000,1,1,0,Known,0.1,0.155319,0.744681,5,0,0,0
+46943,6062530,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,91,Loss,2,31,31,350000,1,1,0,Known,0.0,1.0,0.0,6,0,0,0
+46946,6062771,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,72,Loss,9,31,31,30000,3,3,0,Known,0.121795,0.121795,0.75641,3,2,0,0
+46987,6074408,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Won,3,2,2,24000,3,2,0,Unknown,0.0,1.0,0.0,2,2,1,2
+46996,6076621,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Won,4,3,3,15000,3,2,0,Unknown,0.0,1.0,0.0,2,2,1,2
+47052,6091596,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,86,Loss,2,34,34,70000,4,1,0,Known,0.0,1.0,0.0,4,0,0,0
+47122,6103740,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,81,Loss,6,38,38,101000,5,3,0,Unknown,0.0,0.575198,0.4248020000000001,5,0,0,2
+47164,6115102,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Won,3,0,0,12900,1,1,0,Unknown,0.0,1.0,0.0,2,2,1,2
+47238,6130452,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,68,Loss,4,51,51,100000,1,1,0,None,0.0,1.0,0.0,5,0,0,1
+47239,6130472,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Loss,5,16,16,20000,2,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+47250,6130784,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,91,Loss,4,28,28,20000,1,1,0,Known,0.528169,0.014085,0.457746,2,0,0,0
+47271,6136949,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,84,Loss,7,9,9,30000,1,5,0,Known,0.22093,0.186047,0.593023,3,0,0,0
+47310,6147887,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,3,34,34,55000,4,4,0,Unknown,0.071642,0.928358,0.0,4,0,0,2
+47321,6148577,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,88,Loss,6,15,15,16000,1,1,0,Unknown,0.0,0.986207,0.013793,2,2,0,2
+47402,6173006,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,83,Loss,2,35,35,70000,3,2,0,Known,0.0,1.0,0.0,4,0,0,0
+47421,6176992,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,86,Loss,6,31,7,10400,1,5,0,Known,0.0,0.0,0.216393,2,0,0,0
+47460,6190284,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,87,Loss,3,29,29,80000,3,4,0,Unknown,0.520408,0.479592,0.0,4,0,0,2
+47482,6196760,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,2,54,54,55000,2,1,0,Known,0.0,1.0,0.0,4,2,0,0
+47570,6214953,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,75,Loss,6,39,39,30000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+47571,6214981,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,82,Loss,6,33,33,10000,5,2,0,Unknown,0.009009,0.990991,0.0,2,2,0,2
+47586,6215768,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,85,Loss,6,29,29,10000,1,2,0,Unknown,0.089041,0.910959,0.0,2,2,0,2
+47594,6221383,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Won,4,2,1,12000,3,1,0,None,0.0,0.0,0.5,2,2,1,1
+47640,6228595,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,89,Loss,4,25,25,20000,3,5,0,Unknown,0.0,0.6477729999999999,0.352227,2,0,0,2
+47642,6228674,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Won,3,11,11,10000,2,1,0,Unknown,0.0,1.0,0.0,2,2,1,2
+47770,6249432,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,63,Loss,3,52,52,40000,1,3,4,Unknown,0.0,0.001942,0.998058,3,2,0,2
+47824,6256040,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,6,23,23,250000,1,5,0,Unknown,0.094017,0.431624,0.474359,6,0,0,2
+47912,6272982,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,83,Loss,4,23,19,70000,1,5,4,Known,0.0,0.0,0.845133,4,0,0,0
+47976,6280800,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,5,26,26,200000,1,5,0,Known,0.371212,0.05303,0.575758,5,0,0,0
+48025,6291126,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,92,Won,3,20,20,25000,2,3,0,Unknown,0.0,0.004902,0.995098,3,2,1,2
+48031,6291532,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Won,3,5,5,7000,3,3,0,Unknown,0.0,1.0,0.0,1,2,1,2
+48041,6295282,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,88,Loss,3,0,0,40000,3,2,0,Unknown,0.0,1.0,0.0,3,2,0,2
+48076,6301992,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Loss,5,41,41,25000,1,1,0,Unknown,0.0,0.0073170000000000015,0.992683,3,2,0,2
+48105,6305558,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,81,Loss,3,31,31,60000,2,3,0,Known,0.0,0.0,1.0,4,0,0,0
+48108,6305730,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Loss,6,24,24,70000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+48115,6308692,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Loss,4,18,18,70000,3,4,0,Unknown,0.0,1.0,0.0,4,2,0,2
+48163,6316075,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,91,Loss,5,20,20,25000,1,1,0,Unknown,0.0,0.009852,0.990148,3,2,0,2
+48172,6316622,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,4,49,49,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+48184,6319424,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,7,39,39,65000,3,2,0,Unknown,0.069948,0.930052,0.0,4,2,0,2
+48249,6331092,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,63,Loss,4,48,48,55000,1,4,0,Unknown,0.043478,0.26294,0.6935819999999999,4,2,0,2
+48328,6345345,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Loss,4,44,44,45000,3,4,0,Known,0.0,0.939189,0.060811,3,2,0,0
+48361,6352661,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,87,Loss,5,24,24,500000,1,1,0,Known,0.076596,0.5659569999999999,0.357447,7,0,0,0
+48444,6361118,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,89,Loss,3,20,20,55000,3,5,0,Known,0.315271,0.684729,0.0,4,0,0,0
+48478,6364893,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,89,Loss,2,20,20,20000,2,1,0,Unknown,0.0,1.0,0.0,2,0,0,2
+48541,6373266,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,4,17,17,50000,1,1,0,Unknown,0.0,0.606061,0.393939,4,0,1,2
+48625,6384489,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,86,Loss,2,23,23,30000,1,1,0,Known,0.0,1.0,0.0,3,0,0,0
+48641,6387323,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,46,Loss,7,56,56,100000,1,1,0,Unknown,0.06463200000000001,0.935368,0.0,5,2,0,2
+48668,6393979,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,2,18,18,50000,3,2,0,Known,0.0,1.0,0.0,4,0,0,0
+48679,6394609,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,74,Loss,3,35,35,70000,4,4,0,Unknown,0.127168,0.8728319999999999,0.0,4,0,0,2
+48724,6401214,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,2,23,23,130000,3,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+48729,6403354,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Loss,4,42,42,45000,2,2,0,Unknown,0.214286,0.785714,0.0,3,2,0,2
+48730,6403412,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Loss,11,32,31,45000,1,3,0,Unknown,0.0,0.811146,0.136223,3,2,0,2
+48791,6410713,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,87,Loss,3,21,21,350000,4,5,0,Known,0.302439,0.697561,0.0,6,0,0,0
+48801,6414372,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,91,Loss,4,17,17,60000,2,5,0,Unknown,0.327381,0.220238,0.452381,4,0,0,2
+48833,6420330,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Loss,2,23,23,10000,2,2,0,Unknown,0.0,1.0,0.0,2,2,0,2
+48857,6423383,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,87,Loss,2,20,20,25000,2,2,0,Unknown,0.0,1.0,0.0,3,0,0,2
+49147,6495435,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,63,Loss,3,41,41,20000,2,1,0,Known,0.950617,0.049383,0.0,2,0,0,0
+49185,6500911,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,4,11,7,92000,1,1,2,Unknown,0.0,0.0,0.575221,4,0,1,2
+49211,6503390,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Loss,3,37,37,5000,3,4,0,Unknown,0.0,0.002674,0.997326,1,2,0,2
+49220,6503701,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,2,13,13,60000,2,1,0,Known,0.0,1.0,0.0,4,0,0,0
+49231,6504157,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,81,Loss,3,23,23,150000,1,1,0,Known,0.0,0.008889,0.991111,5,0,0,0
+49316,6515248,Batteries & Accessories,Car Accessories,Mid-Atlantic,Telesales,28,Loss,5,75,75,125000,2,1,0,Unknown,0.003989,0.696809,0.299202,5,4,0,2
+49328,6517747,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Loss,2,37,37,45000,2,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+49346,6518154,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,44,Loss,5,49,49,110000,1,5,4,Unknown,0.4582479999999999,0.541752,0.0,5,0,0,2
+49355,6518519,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,86,Loss,2,16,16,15000,1,2,0,Unknown,0.0,1.0,0.0,2,0,0,2
+49380,6521611,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,74,Loss,4,29,29,8000,1,1,0,Unknown,0.0,0.763066,0.236934,1,2,0,2
+49384,6521689,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,65,Loss,2,38,38,100000,1,1,0,Known,0.0,1.0,0.0,5,0,0,0
+49389,6521857,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Won,5,9,8,40000,1,4,0,Known,0.0,0.077778,0.777778,3,0,1,0
+49473,6530711,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,79,Loss,3,24,24,70000,3,1,0,Known,0.8516950000000001,0.148305,0.0,4,0,0,0
+49507,6534573,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,86,Loss,3,17,17,20000,5,4,0,Known,0.017963999999999997,0.0,0.982036,2,0,0,0
+49537,6538090,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,66,Loss,4,11,11,250000,3,5,0,Unknown,0.00885,0.99115,0.0,6,0,0,2
+49540,6538120,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,25,Loss,6,77,77,200000,3,5,0,Unknown,0.001299,0.325974,0.6727270000000001,5,0,0,2
+49609,6546028,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,79,Loss,4,21,21,100000,1,5,4,Known,0.0,0.7169810000000001,0.283019,5,0,0,0
+49610,6546042,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,79,Loss,4,21,21,250000,1,5,4,Known,0.0,0.7169810000000001,0.283019,6,0,0,0
+49611,6546045,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,81,Loss,2,21,21,100000,1,5,0,Unknown,0.0,1.0,0.0,5,0,0,2
+49612,6546063,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,83,Loss,2,19,19,250000,1,5,0,Known,0.0,1.0,0.0,6,0,0,0
+49696,6553576,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,82,Loss,3,19,19,150000,1,5,0,Known,0.020725,0.979275,0.0,5,0,0,0
+49705,6553797,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,72,Loss,2,30,30,100000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+49728,6557028,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,75,Won,5,16,15,26408,1,4,0,None,0.0,0.093168,0.819876,3,0,1,1
+49730,6557035,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,89,Loss,2,12,12,200000,1,5,0,Known,0.0,1.0,0.0,5,0,0,0
+49768,6561095,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,83,Loss,3,18,18,70000,1,1,0,Known,0.071823,0.928177,0.0,4,0,0,0
+49771,6561127,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,4,11,9,44000,1,1,0,Unknown,0.7964600000000001,0.0,0.0,3,0,0,2
+49781,6561464,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,2,11,11,300000,4,5,0,Known,0.0,1.0,0.0,6,0,0,0
+49896,6573782,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,84,Loss,7,16,12,30000,1,2,0,Known,0.070064,0.407643,0.267516,3,0,0,0
+49967,6579718,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,87,Loss,3,14,14,60000,3,3,0,Unknown,0.043165,0.956835,0.0,4,0,0,2
+50017,6587507,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,89,Loss,2,11,11,100000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+50030,6587912,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,89,Loss,2,11,11,100000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+50039,6588042,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,79,Loss,6,19,19,100000,1,3,0,Unknown,0.0,0.664921,0.335079,5,0,0,2
+50050,6590081,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,4,35,35,5000,2,1,0,Unknown,0.0,0.711429,0.288571,1,2,0,2
+50071,6593073,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Won,2,0,0,38000,1,1,0,Unknown,0.0,0.0,0.0,3,2,1,2
+50124,6594268,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Won,4,8,8,42000,3,3,0,None,0.0,0.0875,0.9125,3,0,1,1
+50136,6596980,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,2,9,9,30000,1,3,0,Unknown,0.0,1.0,0.0,3,0,0,2
+50150,6597592,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,3,9,9,150000,1,4,4,Unknown,1.0,0.0,0.0,5,0,0,2
+50184,6601708,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,2,38,38,35000,2,4,0,Unknown,0.0,1.0,0.0,3,2,0,2
+50234,6607432,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,90,Won,6,5,5,25000,3,3,0,Unknown,0.0,0.086957,0.913043,3,2,1,2
+50285,6611376,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,5,7,5,10000,5,3,1,Known,0.0,0.12676099999999998,0.591549,2,0,1,0
+50451,6628929,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,3,14,14,10000,1,4,0,Unknown,0.007353,0.992647,0.0,2,0,0,2
+50462,6629266,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,91,Loss,2,8,8,60000,4,5,0,Unknown,0.0,1.0,0.0,4,0,0,2
+50546,6636560,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,2,8,8,100000,4,3,0,Known,0.0,1.0,0.0,5,0,0,0
+50553,6637028,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,90,Won,6,6,5,40000,3,3,0,Known,0.0,0.016128999999999998,0.7258060000000001,3,2,1,0
+50575,6639946,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Loss,2,32,32,100000,1,1,0,Unknown,0.0,1.0,0.0,5,2,0,2
+50611,6643101,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Loss,2,14,14,10000,1,1,1,Unknown,0.0,1.0,0.0,2,2,0,2
+50634,6643594,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,78,Loss,2,20,20,101000,3,4,3,Unknown,1.0,0.0,0.0,5,0,0,2
+50661,6646521,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,86,Loss,2,11,11,10000,3,3,0,Known,0.0,1.0,0.0,2,0,0,0
+50663,6646539,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,84,Loss,3,13,13,56000,5,4,0,Unknown,1.0,0.0,0.0,4,0,0,2
+50679,6649412,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Loss,2,32,32,40000,4,3,0,Unknown,0.0,1.0,0.0,3,2,0,2
+50680,6649446,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Loss,2,32,32,40000,2,2,0,Unknown,0.0,1.0,0.0,3,2,0,2
+50826,6665256,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,91,Won,2,6,6,6000,1,1,1,Unknown,0.0,1.0,0.0,1,2,1,2
+50860,6666368,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,88,Loss,3,9,9,150000,1,1,0,None,0.0,0.091954,0.908046,5,0,0,1
+50908,6670636,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,82,Loss,2,15,15,100000,3,4,0,Unknown,1.0,0.0,0.0,5,0,0,2
+50938,6673835,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,25,Loss,5,72,72,200000,3,5,0,Unknown,0.047354,0.169916,0.78273,5,0,0,2
+50976,6677064,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,91,Loss,2,6,6,30000,1,5,0,Unknown,0.0,1.0,0.0,3,0,0,2
+50994,6679581,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,89,Won,4,5,2,28000,1,1,2,Known,0.0,0.0,0.511111,3,0,1,0
+51081,6686677,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,93,Won,3,3,3,178000,2,1,0,Unknown,0.0,0.035714,0.964286,5,2,1,2
+51127,6687670,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,4,32,32,35000,1,1,0,Known,0.060317,0.939683,0.0,3,2,0,0
+51164,6693680,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,3,3,3,5000,2,1,0,Unknown,0.0,0.0,1.0,1,0,1,2
+51183,6694108,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,90,Won,3,6,6,250000,3,2,0,Unknown,0.0,0.054545,0.945455,6,2,1,2
+51312,6705153,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,76,Loss,5,20,20,300000,5,1,3,Known,0.107692,0.328205,0.564103,6,0,0,0
+51365,6708751,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,6,23,23,25000,3,1,0,Unknown,0.0,0.149573,0.850427,3,2,0,2
+51407,6711262,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,91,Loss,2,5,5,20000,4,5,0,None,0.0,1.0,0.0,2,0,0,1
+51408,6711269,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,88,Loss,4,5,5,35000,1,5,0,Known,0.0,0.0,1.0,3,0,0,0
+51443,6713909,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Won,4,3,3,6300,4,4,0,Unknown,0.0,0.967742,0.0,1,0,1,2
+51566,6725685,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,79,Won,5,2,1,30000,1,1,0,Unknown,0.0,0.277778,0.055556,3,0,1,2
+51610,6728983,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,79,Loss,3,16,16,70000,3,3,0,Unknown,0.386076,0.613924,0.0,4,0,0,2
+51680,6735986,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,85,Loss,4,2,2,50000,1,2,0,Unknown,0.0,0.0,1.0,4,2,0,2
+51702,6736633,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,2,9,9,55000,1,1,0,Known,1.0,0.0,0.0,4,0,0,0
+51783,6744965,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,92,Won,2,2,2,40000,1,5,2,Unknown,0.0,1.0,0.0,3,2,1,2
+51799,6745282,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,71,Loss,2,23,23,100000,1,1,0,Unknown,0.0,1.0,0.0,5,2,0,2
+51855,6751960,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,84,Loss,2,9,9,1000,1,3,0,Unknown,1.0,0.0,0.0,1,0,0,2
+51909,6759291,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,81,Loss,2,12,12,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+51970,6763284,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,88,Won,3,1,1,20000,1,1,2,Unknown,1.0,0.0,0.0,2,0,1,2
+51978,6763537,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,2,68,68,20000,3,2,0,Unknown,0.0,1.0,0.0,2,2,0,2
+51979,6763538,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,63,Loss,2,30,30,20000,3,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+51980,6763539,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,4,67,67,20000,2,4,0,Known,0.0,1.0,0.0,2,2,0,0
+51981,6763542,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,2,68,68,20000,3,4,0,Unknown,0.0,1.0,0.0,2,2,0,2
+51982,6763547,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,2,68,68,20000,2,2,0,Known,0.0,1.0,0.0,2,2,0,0
+51983,6763553,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,63,Loss,2,30,30,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+51984,6763554,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,57,Loss,2,36,36,20000,1,3,0,Unknown,0.0,1.0,0.0,2,2,0,2
+51985,6763555,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,2,68,68,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+51987,6763561,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,2,68,68,20000,2,3,0,Known,0.0,1.0,0.0,2,2,0,0
+51988,6763562,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,2,68,68,20000,2,3,0,Unknown,0.0,1.0,0.0,2,2,0,2
+51989,6763577,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,2,68,68,20000,3,2,0,Unknown,0.0,1.0,0.0,2,2,0,2
+51990,6763581,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,2,68,68,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+52006,6766084,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,6,28,14,40000,5,1,0,Unknown,0.0,0.010791,0.492806,3,2,0,2
+52012,6766186,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Loss,2,9,9,25000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+52016,6766360,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,2,3,3,150000,1,3,0,Unknown,0.0,1.0,0.0,5,0,0,2
+52033,6766760,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,58,Won,8,35,34,35000,1,2,0,Unknown,0.0,0.452722,0.527221,3,2,1,2
+52061,6769641,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,76,Loss,4,17,17,150000,1,5,4,Known,0.295858,0.076923,0.627219,5,0,0,0
+52066,6769733,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,2,28,28,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+52076,6769846,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,93,Won,1,0,0,250000,1,1,0,Unknown,0.0,0.0,0.0,6,2,1,2
+52124,6772585,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,2,0,0,51000,2,2,3,Known,0.0,0.0,0.0,4,0,1,0
+52127,6772649,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,81,Loss,3,12,12,100000,1,5,0,Known,0.0,0.0,1.0,5,0,0,0
+52160,6773372,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,90,Loss,2,3,3,50000,1,1,0,Unknown,0.0,0.0,1.0,4,2,0,2
+52172,6776130,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,88,Won,3,1,1,150000,1,1,0,None,0.0,0.0,1.0,5,0,1,1
+52234,6779897,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,3,1,1,52000,3,2,4,Unknown,0.0,0.0,1.0,4,0,1,2
+52252,6780298,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Loss,2,9,9,20000,2,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+52260,6782609,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,2,8,8,55000,1,5,0,Known,1.0,0.0,0.0,4,0,0,0
+52329,6788406,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Loss,2,8,8,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+52367,6790732,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,4,0,0,25000,1,2,0,Known,0.0,0.0,1.0,3,0,1,0
+52519,6806486,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,86,Loss,3,4,4,35000,2,1,0,Known,0.0,1.0,0.0,3,0,0,0
+52650,6819731,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,1,0,0,0,1,4,4,Unknown,0.0,0.0,0.0,1,0,0,2
+52661,6820102,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,1,0,0,0,1,1,0,Unknown,0.0,0.0,0.0,1,0,0,2
+52674,6820390,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,88,Loss,2,0,0,55000,1,5,0,Unknown,0.0,0.0,0.0,4,0,0,2
+52688,6820497,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,90,Loss,2,1,1,30000,1,3,0,Known,0.0,1.0,0.0,3,2,0,0
+52718,6824054,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,1,0,0,72000,5,1,0,Unknown,0.0,0.0,0.0,4,0,0,2
+52720,6824083,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,85,Loss,3,5,5,46000,5,1,0,Unknown,0.0,0.043478,0.956522,3,2,0,2
+52721,6824114,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,73,Won,4,17,1,90000,1,1,0,Known,0.0,0.0,0.048193,4,0,1,0
+52788,6827983,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,1,0,0,0,1,1,0,Unknown,0.0,0.0,0.0,1,0,0,2
+52789,6827983,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,90,Loss,1,0,0,0,1,1,0,Unknown,0.0,0.0,0.0,1,0,0,2
+52795,6828091,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,70,Loss,3,0,0,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+52810,6831069,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,90,Won,1,0,0,1102,1,1,0,Unknown,0.0,0.0,0.0,1,2,1,2
+52848,6832062,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,84,Loss,3,6,6,50000,1,4,0,Unknown,0.448276,0.551724,0.0,4,0,0,2
+52877,6834994,Batteries & Accessories,Car Accessories,Mid-Atlantic,Telecoverage,45,Won,6,19,17,7000,5,1,2,Unknown,0.278351,0.14948499999999998,0.443299,1,3,1,2
+52891,6837362,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,37,Loss,2,53,53,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+52892,6837387,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,2,65,65,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+52956,6840830,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,84,Loss,3,6,6,30000,4,1,0,Unknown,1.0,0.0,0.0,3,0,0,2
+52995,6844410,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,76,Loss,2,13,13,0,2,4,0,Unknown,1.0,0.0,0.0,1,0,0,2
+53004,6845150,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,2,27,27,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+53013,6847758,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,63,Loss,2,26,26,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+53017,6847773,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,73,Loss,5,9,9,39200,3,4,4,Unknown,0.0,0.045455,0.954545,3,2,0,2
+53047,6848433,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,81,Loss,2,9,9,20000,2,1,0,Unknown,0.0,0.0,1.0,2,0,0,2
+53067,6849269,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,77,Loss,3,13,13,50000,3,2,4,Unknown,0.777778,0.222222,0.0,4,0,0,2
+53102,6852138,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,74,Loss,3,9,9,5750,3,2,0,Unknown,0.0,1.0,0.0,1,0,0,2
+53108,6852400,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,3,4,4,60000,2,4,0,Unknown,0.02381,0.97619,0.0,4,0,0,2
+53319,6871013,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,86,Loss,3,2,2,100000,2,1,0,Known,0.947368,0.0,0.052632000000000005,5,0,0,0
+53320,6871041,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,79,Loss,2,10,10,10000,1,5,0,Unknown,1.0,0.0,0.0,2,0,0,2
+53323,6871160,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,77,Loss,3,12,12,250000,1,1,4,Known,0.0,0.152542,0.847458,6,0,0,0
+53386,6875298,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,53,Loss,4,34,34,150000,1,1,4,None,0.265487,0.0,0.734513,5,0,0,1
+53419,6878514,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,83,Loss,2,5,5,15000,4,3,0,Known,0.0,1.0,0.0,2,2,0,0
+53464,6882811,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,4,2,2,55000,2,1,0,Known,0.25,0.291667,0.458333,4,0,0,0
+53472,6883136,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,4,2,2,40000,2,1,0,Known,0.0,0.541667,0.458333,3,0,0,0
+53583,6893375,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,86,Won,3,2,2,45000,1,2,3,Known,0.0,0.75,0.25,3,0,1,0
+53614,6896295,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,2,3,3,150000,1,5,0,Unknown,1.0,0.0,0.0,5,0,0,2
+53621,6896496,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,88,Loss,1,0,0,8000,3,2,0,Unknown,0.0,0.0,0.0,1,0,0,2
+53661,6900339,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,82,Loss,2,5,5,30000,2,3,0,Unknown,1.0,0.0,0.0,3,0,0,2
+53665,6900366,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,2,2,2,30000,4,5,0,Unknown,1.0,0.0,0.0,3,0,0,2
+53666,6900381,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,2,2,2,30000,1,5,0,Unknown,1.0,0.0,0.0,3,0,0,2
+53671,6900420,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,73,Loss,2,14,14,60000,2,2,0,Known,0.0,1.0,0.0,4,2,0,0
+53675,6900538,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,62,Loss,2,25,25,30000,3,2,0,Unknown,1.0,0.0,0.0,3,0,0,2
+53679,6900566,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,86,Loss,3,1,1,35000,2,4,0,Unknown,0.0,0.214286,0.785714,3,2,0,2
+53680,6900567,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,81,Loss,2,6,6,120000,5,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+53682,6900573,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,58,Loss,2,30,30,30000,3,4,0,Unknown,1.0,0.0,0.0,3,0,0,2
+53746,6904970,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,53,Loss,6,33,25,255000,3,3,0,Unknown,0.0,0.287879,0.457576,6,0,0,2
+53785,6905795,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,74,Loss,3,14,14,300000,3,2,0,Known,0.977778,0.022222,0.0,6,0,0,0
+53793,6905851,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,84,Loss,2,3,3,240000,2,3,0,Unknown,0.0,1.0,0.0,5,0,0,2
+53796,6905901,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,86,Loss,2,2,2,32000,2,1,0,Unknown,0.0,1.0,0.0,3,0,0,2
+53802,6905969,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,73,Loss,4,14,10,110000,5,2,0,Unknown,0.0,0.678322,0.020979,5,0,0,2
+53866,6910290,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,73,Loss,2,14,14,350000,4,3,0,Unknown,0.0,1.0,0.0,6,0,0,2
+53915,6913901,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,63,Loss,7,12,0,70000,2,4,0,Unknown,0.0,0.008695999999999999,0.0,4,2,0,2
+53985,6915016,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,64,Loss,10,22,21,250000,1,1,0,Unknown,0.07798200000000001,0.5137609999999999,0.37156,6,2,0,2
+54003,6915149,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,64,Loss,5,23,23,50000,1,1,0,Unknown,0.273913,0.473913,0.25217399999999995,4,0,0,2
+54036,6915661,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,64,Loss,2,23,23,155000,2,2,0,Unknown,1.0,0.0,0.0,5,0,0,2
+54084,6919317,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,80,Won,2,7,7,312000,1,1,0,Known,0.0,0.0,1.0,6,0,1,0
+54098,6919684,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,78,Loss,2,9,9,200000,1,5,0,Known,0.0,0.0,1.0,5,0,0,0
+54137,6923253,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,71,Loss,2,16,16,220000,5,1,0,Known,0.0,1.0,0.0,5,0,0,0
+54138,6923259,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,46,Loss,3,40,40,150000,1,1,0,Unknown,0.8453870000000001,0.154613,0.0,5,0,0,2
+54139,6923280,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,74,Loss,4,12,12,350000,5,1,3,Known,0.0,0.008197,0.991803,6,0,0,0
+54183,6927457,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,2,25,25,70000,1,5,0,Unknown,0.0,1.0,0.0,4,2,0,2
+54211,6928389,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,56,Won,4,30,30,70000,1,5,4,Known,0.086667,0.8466670000000001,0.06666699999999999,4,0,1,0
+54216,6928418,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,77,Loss,2,9,9,110000,5,5,0,Unknown,1.0,0.0,0.0,5,0,0,2
+54257,6932675,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,59,Loss,3,27,27,105000,1,5,0,Unknown,0.0,0.302583,0.697417,5,0,0,2
+54313,6936963,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,57,Won,3,1,1,2000,3,2,2,Unknown,1.0,0.0,0.0,1,2,1,2
+54315,6936986,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,75,Won,5,9,9,30000,1,1,0,Unknown,0.122222,0.866667,0.011111,3,0,1,2
+54316,6936994,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,37,Loss,3,50,50,105000,1,5,0,Unknown,0.323232,0.676768,0.0,5,0,0,2
+54327,6937136,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,74,Loss,3,13,13,101000,2,2,0,Unknown,0.8174600000000001,0.18254,0.0,5,0,0,2
+54334,6937294,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,80,Loss,2,7,7,101000,5,3,0,Unknown,1.0,0.0,0.0,5,0,0,2
+54385,6940614,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,63,Loss,2,23,23,120000,4,5,0,Known,0.0,1.0,0.0,5,0,0,0
+54386,6940680,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,56,Loss,8,25,25,95000,1,1,0,Unknown,0.0039840000000000006,0.996016,0.0,4,2,0,2
+54402,6940928,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,72,Loss,2,15,15,101000,3,4,4,Unknown,1.0,0.0,0.0,5,0,0,2
+54406,6940976,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,81,Loss,3,0,0,30000,3,2,0,Unknown,1.0,0.0,0.0,3,0,0,2
+54407,6940977,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,83,Loss,3,3,3,45000,4,4,0,Unknown,0.580645,0.419355,0.0,3,0,0,2
+54498,6948706,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,53,Loss,2,33,33,100000,4,3,0,Unknown,0.0,1.0,0.0,5,2,0,2
+54520,6949722,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,86,Loss,1,0,0,120000,4,5,0,None,0.0,0.0,0.0,5,0,0,1
+54521,6949755,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,58,Loss,3,28,28,101000,3,3,0,Unknown,0.401434,0.5985659999999999,0.0,5,0,0,2
+54561,6957510,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,86,Won,1,0,0,68510,1,1,0,Unknown,0.0,0.0,0.0,4,2,1,2
+54581,6958116,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,5,42,42,50000,1,4,0,Unknown,0.186158,0.813842,0.0,4,2,0,2
+54646,6961963,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,4,24,24,70000,1,4,0,Unknown,0.0,0.8425530000000001,0.157447,4,2,0,2
+54648,6961985,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,84,Won,3,0,0,3000,1,3,0,Unknown,0.0,0.0,0.0,1,0,1,2
+54649,6961990,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,85,Loss,1,0,0,50000,1,4,0,Unknown,0.0,0.0,0.0,4,0,0,2
+54669,6965167,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Won,2,1,1,9000,5,3,3,Unknown,0.0,1.0,0.0,1,2,1,2
+54670,6965168,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,25,Loss,2,60,60,55000,1,1,0,Unknown,1.0,0.0,0.0,4,0,0,2
+54738,6970020,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,5,2,2,449000,2,2,4,Unknown,0.043478,0.5217390000000001,0.434783,6,0,1,2
+54749,6970209,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,79,Loss,2,6,6,50000,2,1,0,Unknown,1.0,0.0,0.0,4,0,0,2
+54793,6975081,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,49,Loss,7,33,33,55000,2,5,0,Unknown,0.0,0.89426,0.10574,4,0,0,2
+54800,6975339,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,74,Loss,2,11,11,55000,3,2,0,Unknown,0.0,1.0,0.0,4,0,0,2
+54881,6982787,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,63,Loss,3,21,21,150000,1,4,0,Known,0.0,1.0,0.0,5,0,0,0
+54883,6982801,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,75,Loss,5,10,10,5000,1,1,0,Unknown,0.083333,0.0,0.916667,1,2,0,2
+54929,6986616,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,77,Loss,2,7,7,110000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+54935,6986847,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,65,Loss,4,20,20,150000,1,5,0,Unknown,0.703518,0.125628,0.170854,5,0,0,2
+54947,6987210,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,82,Loss,2,2,2,38000,5,4,0,Unknown,0.0,1.0,0.0,3,0,0,2
+54979,6990896,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,83,Loss,2,2,2,120000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+54992,6991475,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,82,Loss,2,2,2,190000,3,5,0,None,0.0,0.0,1.0,5,0,0,1
+55073,6999088,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,84,Won,1,0,0,6699,2,1,0,Unknown,0.0,0.0,0.0,1,2,1,2
+55137,7003470,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,53,Loss,2,31,31,350000,1,5,0,Unknown,1.0,0.0,0.0,6,0,0,2
+55140,7003505,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,51,Loss,4,28,28,40000,2,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+55155,7003787,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,78,Loss,3,6,6,20000,5,1,0,None,0.440678,0.559322,0.0,2,0,0,1
+55189,7007578,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,75,Won,2,0,0,5000,1,1,0,Unknown,0.0,0.0,0.0,1,0,1,2
+55354,7021184,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,60,Loss,3,24,24,60000,1,5,0,Known,0.0,0.0,1.0,4,0,0,0
+55388,7024712,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,66,Won,4,17,1,10000,1,2,0,Known,0.0,0.0,0.035088,2,0,1,0
+55390,7024760,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,73,Loss,2,10,10,250000,1,1,4,Unknown,1.0,0.0,0.0,6,0,0,2
+55398,7024932,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,79,Loss,2,4,4,200000,1,5,0,Unknown,1.0,0.0,0.0,5,0,0,2
+55454,7029153,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,83,Loss,1,0,0,650000,4,3,0,Unknown,0.0,0.0,0.0,7,0,0,2
+55537,7038851,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,35,Loss,4,48,48,400000,1,5,4,Known,0.428571,0.201681,0.369748,6,0,0,0
+55583,7043055,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,79,Loss,2,4,4,250000,3,2,0,Known,0.0,1.0,0.0,6,0,0,0
+55633,7046789,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,81,Won,3,1,1,40000,1,1,4,Unknown,0.285714,0.0,0.714286,3,2,1,2
+55753,7054921,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,30,Loss,5,1,1,450000,2,4,0,Unknown,0.0,1.0,0.0,6,2,0,2
+55771,7055275,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,62,Loss,2,20,20,6000,3,3,0,Unknown,1.0,0.0,0.0,1,0,0,2
+55842,7059062,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,65,Loss,2,17,17,55000,2,2,0,Unknown,0.0,1.0,0.0,4,0,0,2
+55848,7059268,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,67,Loss,2,15,15,20000,3,3,0,Unknown,1.0,0.0,0.0,2,0,0,2
+55861,7059625,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,6,12,10,135000,3,5,0,Unknown,0.125,0.058333,0.633333,5,0,1,2
+55878,7062127,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,51,Loss,4,26,26,7000,1,1,0,Unknown,0.326848,0.6731520000000001,0.0,1,2,0,2
+55941,7070106,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,82,Loss,1,0,0,104000,5,5,0,Unknown,0.0,0.0,0.0,5,0,0,2
+55966,7073627,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,73,Loss,2,8,8,12000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+55988,7074934,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,65,Loss,3,16,2,14000,2,1,4,Known,0.0,0.0,0.093168,2,0,0,0
+56017,7078010,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Won,4,8,8,4254,4,4,0,Unknown,0.0,0.807692,0.192308,1,2,1,2
+56053,7081717,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,55,Loss,9,11,10,0,3,2,0,Known,0.230088,0.053097000000000005,0.628319,1,0,0,0
+56056,7081739,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,5,14,8,253000,5,2,4,Unknown,0.0,0.136691,0.446043,6,0,1,2
+56061,7081806,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,81,Loss,2,0,0,15000,1,3,0,Known,0.0,1.0,0.0,2,0,0,0
+56072,7084331,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,4,2,1,17700,1,1,2,None,0.0,0.5,0.0,2,0,1,1
+56081,7084655,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,71,Loss,2,10,10,25000,1,1,0,Unknown,1.0,0.0,0.0,3,0,0,2
+56084,7084961,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,72,Loss,2,9,9,20000,4,3,0,Unknown,0.0,1.0,0.0,2,2,0,2
+56183,7095424,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,21,Loss,2,60,60,20000,2,3,0,Unknown,0.0,1.0,0.0,2,2,0,2
+56213,7096160,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,59,Loss,4,22,22,110000,1,4,4,None,0.665158,0.271493,0.063348,5,0,0,1
+56218,7096243,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,66,Loss,2,15,15,150000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+56220,7096258,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,66,Loss,2,15,15,30000,3,3,0,Unknown,1.0,0.0,0.0,3,0,0,2
+56258,7099243,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,76,Loss,3,5,5,300000,3,3,0,Known,0.0,0.122449,0.877551,6,0,0,0
+56284,7102392,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,2,16,16,4880,1,5,0,None,0.0,1.0,0.0,1,2,0,1
+56290,7102597,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,59,Loss,2,22,22,300000,1,4,4,Unknown,1.0,0.0,0.0,6,0,0,2
+56401,7113996,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,67,Won,3,6,6,14000,5,1,0,Known,0.0,0.0,1.0,2,0,1,0
+56413,7116549,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,7,63,60,20000,1,5,0,Unknown,0.0,0.927445,0.011041,2,2,0,2
+56437,7117279,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,70,Loss,4,10,10,30000,1,1,0,Unknown,0.607843,0.264706,0.127451,3,0,0,2
+56464,7120148,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,45,Loss,4,32,32,25000,2,3,0,Unknown,0.0,1.0,0.0,3,2,0,2
+56469,7120396,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,77,Loss,3,3,3,200000,5,5,0,Unknown,0.8709680000000001,0.12903199999999998,0.0,5,0,0,2
+56470,7120457,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,44,Loss,8,35,35,105000,5,5,0,Unknown,0.107955,0.8920450000000001,0.0,5,0,0,2
+56471,7120464,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,77,Loss,3,3,3,400000,5,5,0,Known,0.8709680000000001,0.12903199999999998,0.0,6,0,0,0
+56518,7125959,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,9,Loss,10,56,56,50000,2,2,0,Unknown,0.423488,0.300712,0.275801,4,2,0,2
+56532,7126496,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,74,Loss,2,6,6,50000,1,1,0,Unknown,0.0,1.0,0.0,4,0,0,2
+56580,7129883,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,54,Loss,3,26,26,120000,3,2,0,Known,0.63035,0.36965,0.0,5,0,0,0
+56590,7130059,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,74,Loss,3,4,4,10000,3,1,0,Known,0.0,1.0,0.0,2,0,0,0
+56623,7133010,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,16,Loss,2,63,63,50000,3,2,0,Unknown,1.0,0.0,0.0,4,1,0,2
+56645,7135762,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Loss,4,60,60,80000,1,5,0,Unknown,0.003361,0.262185,0.734454,4,0,0,2
+56650,7136087,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,44,Loss,2,35,35,15000,2,2,0,Known,0.0,1.0,0.0,2,0,0,0
+56675,7139217,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,79,Won,1,0,0,26400,1,1,0,Unknown,0.0,0.0,0.0,3,2,1,2
+56680,7139361,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,63,Loss,2,16,16,110000,3,2,0,Unknown,0.0,1.0,0.0,5,0,0,2
+56702,7139956,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,26,Loss,2,53,53,105000,3,2,0,Unknown,0.0,1.0,0.0,5,0,0,2
+56706,7143078,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,63,Loss,2,16,16,200000,3,1,0,Unknown,0.0,1.0,0.0,5,2,0,2
+56713,7143158,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,2,17,17,54780,5,3,0,Unknown,0.0,1.0,0.0,4,2,0,2
+56747,7144460,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,73,Loss,4,6,6,40000,1,5,0,Unknown,0.0,0.8245610000000001,0.157895,3,0,0,2
+56748,7144481,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,78,Loss,2,1,1,10000,4,5,0,Known,0.0,0.0,1.0,2,0,0,0
+56779,7147769,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,63,Loss,3,15,15,100000,4,5,0,Unknown,0.0,1.0,0.0,5,0,0,2
+56832,7151605,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,75,Loss,4,4,4,31000,3,4,0,None,0.552632,0.131579,0.315789,3,0,0,1
+56835,7151764,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,71,Loss,2,7,7,10000,5,4,0,Unknown,0.0,1.0,0.0,2,0,0,2
+56859,7153923,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,3,5,5,60000,3,1,0,Known,0.0,1.0,0.0,4,2,0,0
+56861,7154006,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,74,Loss,3,4,4,30000,1,1,0,Unknown,0.906977,0.093023,0.0,3,0,0,2
+56862,7154027,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,78,Loss,2,0,0,30000,1,1,0,Unknown,1.0,0.0,0.0,3,0,0,2
+56877,7154537,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,75,Won,2,0,0,1000,2,1,0,Unknown,0.0,0.0,0.0,1,0,1,2
+56889,7157228,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,51,Loss,3,27,27,50000,3,1,0,Unknown,0.0,0.003731,0.996269,4,2,0,2
+56904,7157708,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,2,13,13,35000,3,4,0,Unknown,0.0,1.0,0.0,3,2,0,2
+56930,7161502,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,77,Loss,2,1,1,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+56931,7161510,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,77,Loss,2,1,1,30000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+56932,7161518,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,76,Loss,2,2,2,30000,1,4,0,Unknown,0.0,1.0,0.0,3,2,0,2
+56969,7166042,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,77,Loss,2,1,1,40000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+56972,7166100,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,78,Won,1,0,0,13958,3,1,0,Unknown,0.0,0.0,0.0,2,2,1,2
+57006,7169195,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,2,13,13,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+57010,7169290,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,78,Won,1,0,0,21192,3,1,0,Unknown,0.0,0.0,0.0,2,2,1,2
+57012,7169298,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,78,Won,1,0,0,4188,3,2,0,Unknown,0.0,0.0,0.0,1,2,1,2
+57015,7169359,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Won,4,3,0,4554,1,2,0,Unknown,0.0,0.090909,0.0,1,2,1,2
+57024,7169402,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,78,Won,1,0,0,7504,1,1,0,Unknown,0.0,0.0,0.0,1,2,1,2
+57027,7169409,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,78,Won,1,0,0,5106,5,3,2,Unknown,0.0,0.0,0.0,1,2,1,2
+57083,7173324,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,7,Won,6,63,60,0,2,2,3,Known,0.0,0.664537,0.289137,1,0,1,0
+57099,7175901,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,63,Loss,3,15,15,25000,2,3,0,Unknown,0.0,0.006848999999999999,0.993151,3,2,0,2
+57113,7176529,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,73,Won,4,4,3,262000,1,5,0,Known,0.0,0.0,0.690476,6,0,1,0
+57124,7176762,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,57,Loss,2,20,20,105000,1,5,0,Unknown,1.0,0.0,0.0,5,0,0,2
+57174,7181484,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,72,Loss,2,5,5,118000,1,1,1,Known,0.0,1.0,0.0,5,0,0,0
+57185,7184394,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,5,34,33,130000,3,4,0,Unknown,0.062687,0.892537,0.041791,5,2,0,2
+57207,7184968,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,75,Won,2,2,2,35000,1,1,0,Unknown,0.0,1.0,0.0,3,2,1,2
+57209,7184974,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,19,Loss,2,59,59,40000,1,5,0,Unknown,0.0,1.0,0.0,3,2,0,2
+57236,7187834,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,57,Loss,2,20,20,50000,2,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+57260,7188188,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,3,33,33,90000,1,1,0,Unknown,0.4970060000000001,0.5029939999999999,0.0,4,2,0,2
+57279,7188812,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,9,4,4,75000,1,1,0,Known,0.0,0.13513499999999998,0.837838,4,2,0,0
+57292,7191058,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,52,Loss,3,25,25,90000,1,1,0,Unknown,0.0,0.004032,0.995968,4,2,0,2
+57387,7198583,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,74,Loss,2,3,3,9500,1,1,0,Unknown,0.0,0.0,1.0,1,0,0,2
+57422,7201881,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,57,Loss,3,19,14,52000,1,1,0,Unknown,0.0,0.742105,0.0,4,2,0,2
+57455,7202474,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,66,Won,6,2,1,15000,1,1,1,Unknown,0.0,0.0,0.583333,2,2,1,2
+57481,7204926,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,57,Loss,2,19,19,52000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+57493,7205277,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,74,Loss,2,2,2,600000,1,5,0,Unknown,0.0,1.0,0.0,7,0,0,2
+57516,7208236,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,53,Loss,3,23,23,90000,1,1,0,Unknown,0.687225,0.312775,0.0,4,2,0,2
+57519,7208259,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,53,Loss,3,23,23,90000,1,1,0,Unknown,0.687225,0.312775,0.0,4,2,0,2
+57555,7209295,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,60,Loss,6,16,16,150000,1,5,0,Known,0.15625,0.325,0.51875,5,0,0,0
+57591,7212495,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,49,Loss,3,27,27,10000,3,2,0,Unknown,0.089219,0.910781,0.0,2,2,0,2
+57645,7216632,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,53,Loss,4,22,22,200000,1,1,4,Unknown,0.0,0.581395,0.418605,5,0,0,2
+57695,7220426,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,44,Loss,7,32,32,100000,1,3,0,Unknown,0.0,0.7899689999999999,0.210031,5,0,0,2
+57701,7220627,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,75,Loss,2,1,1,150000,1,1,0,Known,0.0,0.0,1.0,5,0,0,0
+57731,7223452,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,54,Loss,3,22,22,10000,5,4,0,Unknown,0.4727270000000001,0.527273,0.0,2,2,0,2
+57739,7223803,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,70,Loss,2,6,6,110000,3,2,0,Unknown,1.0,0.0,0.0,5,0,0,2
+57740,7223831,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,62,Loss,2,14,14,110000,4,4,0,Unknown,0.0,1.0,0.0,5,0,0,2
+57849,7231759,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,73,Won,4,2,2,15000,1,1,0,Known,0.0,0.65,0.15,2,0,1,0
+57903,7236071,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,2,11,11,1000,1,1,0,Unknown,0.0,1.0,0.0,1,2,0,2
+57904,7236113,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,65,Loss,2,10,10,65001,1,1,0,Known,1.0,0.0,0.0,4,0,0,0
+57908,7236168,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,4,10,10,60000,1,5,0,Unknown,0.048544,0.0,0.951456,4,0,1,2
+57911,7238622,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,41,Loss,3,34,34,30000,3,2,0,Unknown,0.0,0.002907,0.997093,3,2,0,2
+57924,7239005,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,28,Loss,2,47,47,50000,1,3,0,Unknown,0.0,1.0,0.0,4,2,0,2
+57994,7242740,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,2,10,10,50000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+58005,7243117,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,75,Loss,2,0,0,25000,3,2,0,Unknown,0.0,1.0,0.0,3,0,0,2
+58021,7243394,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,61,Loss,4,4,4,60000,4,5,0,Known,0.0,1.0,0.0,4,0,0,0
+58027,7243448,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,67,Loss,3,8,8,3000,2,5,0,Unknown,0.173333,0.826667,0.0,1,2,0,2
+58153,7257960,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,58,Won,3,16,16,15000,1,4,2,Unknown,0.0,0.00625,0.99375,2,2,1,2
+58181,7258545,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,57,Loss,3,17,17,30000,1,1,0,Unknown,1.0,0.0,0.0,3,0,0,2
+58275,7266477,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,72,Loss,2,2,2,140000,1,3,2,None,0.0,1.0,0.0,5,0,0,1
+58342,7270201,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,49,Loss,2,0,0,0,3,5,0,Unknown,0.0,0.0,0.0,1,0,0,2
+58428,7278832,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,73,Won,2,0,0,5024,1,1,0,Unknown,0.0,1.0,0.0,1,2,1,2
+58441,7281375,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,73,Won,2,0,0,1780,1,1,0,Unknown,0.0,1.0,0.0,1,2,1,2
+58443,7281382,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,73,Won,2,0,0,3000,1,1,0,Unknown,0.0,1.0,0.0,1,2,1,2
+58457,7281710,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,66,Loss,2,8,8,100000,3,5,0,Unknown,1.0,0.0,0.0,5,0,0,2
+58472,7281935,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Won,4,56,56,21000,1,1,0,Unknown,0.186715,0.348294,0.464991,2,0,1,2
+58500,7285329,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,58,Loss,2,16,16,105000,1,1,0,Known,0.0,1.0,0.0,5,0,0,0
+58551,7289143,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,4,9,0,8500,1,5,0,Unknown,0.0,0.0,0.010989,1,0,1,2
+58593,7293670,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,65,Loss,3,8,8,130000,1,5,0,Known,0.922078,0.077922,0.0,5,1,0,0
+58594,7293684,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,62,Loss,6,10,10,150000,1,1,0,Known,0.038462,0.019231,0.942308,5,0,0,0
+58608,7295916,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,70,Won,3,3,3,32270,3,3,0,Unknown,0.0,0.178571,0.8214290000000001,3,2,1,2
+58617,7296332,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,56,Loss,2,17,17,105000,4,4,0,Unknown,0.0,1.0,0.0,5,0,0,2
+58650,7298923,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,64,Loss,2,9,9,110000,3,4,2,Unknown,1.0,0.0,0.0,5,0,0,2
+58796,7309628,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,53,Won,6,14,14,40000,1,2,3,Known,0.446809,0.148936,0.390071,3,0,1,0
+58844,7313445,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,58,Loss,4,14,14,60000,1,1,0,Known,0.0,0.093525,0.906475,4,0,0,0
+58846,7313474,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,5,56,56,80000,1,1,0,Known,0.0,0.346499,0.653501,4,2,0,0
+58873,7315834,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,64,Won,2,8,8,150000,1,1,0,Unknown,1.0,0.0,0.0,5,2,1,2
+58888,7316292,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,72,Loss,1,0,0,0,3,4,4,Unknown,0.0,0.0,0.0,1,0,0,2
+58902,7316571,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,47,Loss,6,26,26,30000,3,1,0,Unknown,0.335938,0.417969,0.246094,3,2,0,2
+58904,7316653,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,4,9,9,80000,5,4,1,Unknown,0.0,0.755556,0.244444,4,0,1,2
+58919,7319563,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,3,55,55,110000,1,4,0,Unknown,0.142599,0.857401,0.0,5,0,0,2
+58924,7319779,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,58,Won,6,7,6,186000,1,1,1,Unknown,0.030769,0.107692,0.784615,5,0,1,2
+58928,7319825,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,28,Loss,4,25,25,110000,1,1,0,Unknown,0.613546,0.386454,0.0,5,0,0,2
+58933,7322036,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,2,7,7,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+58947,7322299,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,54,Loss,2,18,18,32256,5,4,0,Unknown,0.0,1.0,0.0,3,2,0,2
+58954,7322361,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,58,Loss,2,14,14,200000,1,5,0,Unknown,0.0,1.0,0.0,5,0,0,2
+58998,7326392,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,55,Loss,3,16,16,50000,1,1,0,Unknown,0.558282,0.4417180000000001,0.0,4,2,0,2
+59004,7326599,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,65,Loss,2,7,7,100001,5,1,0,Known,0.0,1.0,0.0,5,0,0,0
+59065,7330505,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,3,16,16,70000,1,1,2,Unknown,0.0,0.0,1.0,4,0,1,2
+59185,7339448,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,40,Loss,3,31,31,200000,1,5,4,Known,0.203822,0.7961779999999999,0.0,5,0,0,0
+59210,7339731,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,44,Loss,2,27,27,100000,5,5,0,Unknown,0.0,1.0,0.0,5,1,0,2
+59229,7343424,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,64,Won,2,7,7,12000,3,2,0,Unknown,0.0,1.0,0.0,2,2,1,2
+59261,7346623,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,54,54,100000,5,1,0,Unknown,0.0,1.0,0.0,5,2,0,2
+59307,7349652,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,2,6,6,6200,2,1,0,Unknown,0.0,1.0,0.0,1,2,0,2
+59405,7357257,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,36,Loss,3,34,34,101000,2,1,2,Known,0.002924,0.997076,0.0,5,1,0,0
+59429,7361420,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,36,Loss,3,35,35,60000,1,1,0,Unknown,0.507246,0.492754,0.0,4,0,0,2
+59441,7361729,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,41,Loss,3,30,30,60000,1,1,0,Known,0.122034,0.877966,0.0,4,0,0,0
+59495,7368121,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,2,5,5,42000,5,5,0,Known,0.0,0.0,1.0,3,2,0,0
+59504,7370528,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,54,Loss,2,16,16,50000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+59523,7371340,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,27,Loss,10,33,33,50000,2,3,0,Unknown,0.015106,0.984894,0.0,4,2,0,2
+59535,7373655,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,3,26,26,90000,1,1,0,Unknown,0.353846,0.646154,0.0,4,2,0,2
+59611,7381035,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,52,Loss,3,18,18,60000,1,1,0,Unknown,0.0,0.948571,0.051429,4,2,0,2
+59656,7387145,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,3,25,25,20000,1,1,0,Unknown,0.0,0.7440939999999999,0.255906,2,2,0,2
+59742,7409274,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Won,3,6,6,3432,1,1,0,Unknown,0.0,0.016128999999999998,0.983871,1,2,1,2
+59805,7420747,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,2,5,5,30000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+59806,7420753,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,57,Loss,2,10,10,40000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+59807,7420754,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,2,5,5,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+59808,7420768,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,62,Loss,2,5,5,40000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+59858,7425171,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,65,Loss,3,2,2,200000,1,1,0,Known,0.0,0.8260870000000001,0.173913,5,0,0,0
+59874,7425581,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Loss,2,3,3,60000,4,5,0,Unknown,0.0,1.0,0.0,4,2,0,2
+59881,7425736,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,26,Won,6,27,18,220000,1,5,4,Known,0.12406,0.368421,0.169173,5,0,1,0
+59964,7435169,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,63,Loss,2,4,4,110000,3,4,0,None,0.0,1.0,0.0,5,0,0,1
+59970,7435275,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,64,Loss,2,3,3,60000,1,5,0,Known,0.0,0.0,1.0,4,0,0,0
+60021,7438124,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,60,Loss,3,2,2,150000,5,5,3,Known,0.0,1.0,0.0,5,0,0,0
+60069,7441622,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,42,Loss,5,22,22,0,2,1,0,Unknown,0.023041,0.976959,0.0,1,2,0,2
+60164,7448444,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,17,Loss,3,49,49,105000,2,1,3,Known,0.0,0.46856,0.5314399999999999,5,0,0,0
+60233,7454894,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,54,Loss,3,12,12,120000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+60246,7455057,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Loss,4,43,43,130000,1,1,4,Known,0.10514,0.761682,0.133178,5,0,0,0
+60267,7455720,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,61,Loss,3,5,5,30000,1,1,0,Unknown,0.0,0.019608,0.980392,3,2,0,2
+60270,7458546,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,63,Won,3,3,3,158240,2,2,1,Unknown,0.0,0.034483,0.965517,5,2,1,2
+60300,7459393,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,56,Loss,3,10,10,50000,1,1,0,Unknown,0.416667,0.583333,0.0,4,0,0,2
+60301,7459394,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,56,Loss,3,10,10,200000,1,5,0,Known,0.02,0.98,0.0,5,0,0,0
+60350,7463125,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,18,Loss,6,35,35,300000,3,4,4,Known,0.0,0.8304600000000001,0.16954,6,2,0,0
+60351,7463233,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,63,Loss,2,3,3,150000,1,1,0,Known,0.0,1.0,0.0,5,0,0,0
+60419,7466957,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,55,Loss,4,5,5,180000,1,1,0,Unknown,0.234043,0.0,0.765957,5,0,0,2
+60455,7470206,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,3,2,2,44000,1,1,3,Unknown,0.0,0.0,1.0,3,0,1,2
+60469,7470585,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,60,Loss,2,6,6,200000,3,4,0,Known,0.0,1.0,0.0,5,0,0,0
+60481,7473338,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,48,Loss,3,18,18,68000,1,1,0,Unknown,0.0,0.005682,0.994318,4,2,0,2
+60484,7473417,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,60,Won,3,5,0,20000,1,1,0,None,0.0,0.019608,0.0,2,2,1,1
+60505,7474104,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,44,Loss,2,22,22,130000,4,5,0,None,0.0,1.0,0.0,5,0,0,1
+60532,7477791,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,65,Won,2,1,1,15000,1,1,0,Known,0.0,1.0,0.0,2,2,1,0
+60558,7478454,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,54,Won,4,11,11,110000,1,1,0,Known,0.127273,0.172727,0.7,5,0,1,0
+60561,7478537,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,44,Loss,3,22,22,20000,2,1,0,Unknown,0.230415,0.7695850000000001,0.0,2,0,0,2
+60618,7484790,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,54,Loss,3,12,12,10000,1,1,0,Known,0.655172,0.344828,0.0,2,2,0,0
+60677,7488990,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,46,Loss,3,19,19,10000,1,1,0,Unknown,0.386243,0.613757,0.0,2,2,0,2
+60690,7489351,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,21,Loss,5,42,42,55000,2,2,0,Unknown,0.0,0.149644,0.850356,4,2,0,2
+60743,7493755,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,46,Loss,3,19,19,10000,1,1,0,Unknown,0.382979,0.617021,0.0,2,2,0,2
+60753,7493974,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,60,Loss,3,5,5,150000,1,1,4,Known,0.0,0.4,0.6,5,0,0,0
+60865,7503384,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,56,Loss,4,7,7,70000,2,1,3,Unknown,0.720588,0.0,0.279412,4,2,0,2
+60877,7503622,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,63,Loss,2,2,2,110000,1,4,4,Known,0.0,1.0,0.0,5,0,0,0
+60885,7503880,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,35,Loss,4,30,30,210000,3,3,0,Unknown,0.347826,0.043478,0.608696,5,0,0,2
+60910,7506796,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,64,Loss,2,0,0,8000,1,1,0,Unknown,1.0,0.0,0.0,1,0,0,2
+60991,7510899,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,59,Loss,5,4,4,105000,1,1,0,Unknown,0.365854,0.512195,0.121951,5,0,0,2
+60993,7510907,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,58,Loss,3,6,6,15000,1,1,0,Unknown,0.390625,0.609375,0.0,2,0,0,2
+61040,7516749,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,64,Won,1,0,0,82307,1,1,1,Unknown,0.0,0.0,0.0,4,2,1,2
+61049,7516891,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,43,Loss,3,21,21,30000,1,1,0,Unknown,0.057142999999999985,0.942857,0.0,3,2,0,2
+61050,7516918,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,42,Loss,3,22,22,30000,1,1,0,Unknown,0.055556,0.944444,0.0,3,2,0,2
+61069,7517371,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,48,48,50000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+61131,7521473,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,6,9,9,105000,4,5,0,Unknown,0.082353,0.494118,0.423529,5,0,1,2
+61134,7521590,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,59,Loss,2,5,5,50000,1,4,0,Known,0.0,1.0,0.0,4,0,0,0
+61140,7523962,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,47,47,15000,3,2,0,Known,0.0,0.006342,0.993658,2,2,0,0
+61159,7524333,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,47,47,30000,1,1,0,None,0.0,1.0,0.0,3,2,0,1
+61166,7524511,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,4,6,6,20000,2,1,3,Unknown,0.0,0.114754,0.8852459999999999,2,0,1,2
+61197,7527072,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,4,20,20,5000,1,1,0,None,0.474747,0.525253,0.0,1,2,0,1
+61229,7527752,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,47,47,60000,1,1,0,None,0.0,1.0,0.0,4,2,0,1
+61404,7542678,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,53,Loss,2,10,10,150000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+61508,7553023,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,2,19,19,40000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+61547,7556831,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,37,Won,3,26,8,56863,1,1,0,Unknown,0.0,0.326848,0.0,4,2,1,2
+61699,7568422,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,56,Won,3,6,6,35000,1,1,4,Unknown,0.0,0.344828,0.655172,3,0,1,2
+61702,7568517,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,55,Won,3,7,7,43395,1,1,0,None,0.0,0.538462,0.461538,3,2,1,1
+61719,7569138,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,55,Loss,3,3,3,30000,1,1,0,Known,0.0,0.0,1.0,3,0,0,0
+61743,7572707,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,3,18,18,7000,1,1,0,Unknown,0.274725,0.725275,0.0,1,2,0,2
+61848,7579871,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,46,Won,2,16,16,15600,1,1,0,None,0.0,1.0,0.0,2,2,1,1
+61861,7580264,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Loss,2,17,17,150000,1,1,4,Unknown,1.0,0.0,0.0,5,0,0,2
+61938,7586945,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,45,45,30000,1,1,0,Unknown,1.0,0.0,0.0,3,0,0,2
+61943,7587102,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,46,Loss,3,15,15,20000,1,1,0,None,0.0,0.813333,0.186667,2,2,0,1
+61948,7587421,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,57,Loss,3,4,4,2000,1,1,0,Unknown,0.159091,0.840909,0.0,1,2,0,2
+61955,7590977,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,3,18,18,43000,1,1,0,Unknown,0.0,0.005714,0.994286,3,2,0,2
+61986,7591962,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,58,Loss,2,3,3,120000,1,1,3,Unknown,0.0,1.0,0.0,5,0,0,2
+61994,7592585,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Loss,2,16,16,110000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+62014,7595416,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,55,Won,3,6,6,345000,1,1,4,Unknown,0.0,0.098361,0.901639,6,2,1,2
+62066,7601663,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,29,Loss,3,32,32,5000,1,1,0,Unknown,0.012698,0.987302,0.0,1,2,0,2
+62148,7609256,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,4,35,35,50000,1,1,0,Unknown,0.074713,0.925287,0.0,4,2,0,2
+62149,7609270,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,53,Loss,2,8,8,50000,1,1,0,Unknown,1.0,0.0,0.0,4,0,0,2
+62192,7613196,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,52,Loss,3,8,8,100000,1,1,0,None,0.0,0.22619,0.77381,5,0,0,1
+62253,7616189,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,43,Loss,2,17,17,35000,1,1,0,Unknown,1.0,0.0,0.0,3,0,0,2
+62322,7621353,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,56,Loss,2,4,4,40000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+62324,7621361,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,46,Loss,2,14,14,50000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+62325,7621396,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,60,Loss,1,0,0,100000,1,1,0,Unknown,0.0,0.0,0.0,5,2,0,2
+62355,7622512,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,4,16,16,40000,1,1,0,Unknown,0.0,0.8930819999999999,0.106918,3,2,0,2
+62401,7627506,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,6,33,33,50000,1,1,0,Unknown,0.05988,0.847305,0.092814,4,2,0,2
+62414,7630344,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,58,Loss,2,2,2,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+62437,7630995,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,46,Won,2,14,14,120,1,1,4,Known,1.0,0.0,0.0,1,0,1,0
+62465,7633767,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,30,Loss,3,5,5,417000,1,1,2,Known,0.0,1.0,0.0,6,2,0,0
+62508,7636940,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,58,Won,2,2,2,100000,1,1,2,Unknown,0.0,1.0,0.0,5,2,1,2
+62553,7640760,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,56,Won,3,3,3,94913,1,1,1,Unknown,0.0,0.882353,0.0,4,2,1,2
+62572,7641426,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,49,Loss,3,9,9,200000,1,1,0,Unknown,0.0,0.0,1.0,5,0,0,2
+62573,7641447,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,27,Loss,4,32,32,40000,1,1,0,None,0.0,0.728395,0.27160500000000004,3,2,0,1
+62629,7649560,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,35,Loss,2,24,24,30000,1,1,0,Unknown,1.0,0.0,0.0,3,2,0,2
+62650,7650296,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,20,Loss,7,36,36,50000,1,1,0,Known,0.061625,0.938375,0.0,4,2,0,0
+62655,7650311,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,43,Loss,2,16,16,50000,1,1,0,Unknown,1.0,0.0,0.0,4,0,0,2
+62702,7652699,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,5,4,2,62000,1,1,3,Unknown,0.0,0.473684,0.157895,4,0,1,2
+62710,7654417,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,43,Loss,2,15,15,50000,1,1,0,Unknown,1.0,0.0,0.0,4,0,0,2
+62711,7654432,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,40,Loss,4,18,18,50000,1,1,0,Unknown,0.79235,0.20765,0.0,4,2,0,2
+62738,7657718,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,46,Loss,2,12,12,270000,1,1,0,Unknown,0.0,1.0,0.0,6,2,0,2
+62747,7657877,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,45,Loss,2,13,13,30000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+62767,7658489,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,40,Loss,8,6,6,45000,1,1,0,Unknown,0.018182,0.8545450000000001,0.127273,3,2,0,2
+62771,7658559,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Loss,3,14,14,20000,1,1,0,Unknown,0.4100720000000001,0.589928,0.0,2,0,0,2
+62785,7658804,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,39,Won,5,1,1,0,1,1,1,Unknown,0.0,0.0,0.875,1,1,1,2
+62870,7666570,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,40,Loss,2,18,18,92000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+62872,7666616,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,33,Loss,2,25,25,25000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+62887,7666872,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,52,Loss,2,6,6,50000,1,1,0,Unknown,0.0,1.0,0.0,4,0,0,2
+62898,7667146,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,42,42,30000,1,1,0,Unknown,1.0,0.0,0.0,3,0,0,2
+62902,7667318,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,48,Loss,2,10,10,58000,1,1,0,Unknown,1.0,0.0,0.0,4,0,0,2
+62905,7669868,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,35,Loss,2,24,24,30000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+62949,7670842,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,37,Won,2,21,21,140000,1,1,2,Unknown,0.0,0.0,1.0,5,0,1,2
+62961,7673400,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,53,Loss,2,5,5,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+62969,7673494,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,53,Loss,2,5,5,40000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+62989,7674080,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,42,Loss,3,16,16,100000,1,1,0,Unknown,0.329032,0.670968,0.0,5,0,0,2
+63035,7677886,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,29,Loss,4,29,29,30000,1,1,0,Unknown,0.291667,0.027778,0.680556,3,2,0,2
+63041,7678130,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,42,Loss,3,15,15,100000,1,1,0,Unknown,0.324675,0.675325,0.0,5,0,0,2
+63042,7678137,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,34,Loss,3,23,23,70000,1,1,0,Unknown,0.214592,0.785408,0.0,4,0,0,2
+63043,7678144,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,42,Loss,3,15,15,100000,1,1,0,Unknown,0.324675,0.675325,0.0,5,0,0,2
+63205,7692753,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,40,Loss,2,17,17,30000,1,1,0,Unknown,1.0,0.0,0.0,3,2,0,2
+63215,7692899,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,26,Loss,2,32,32,50000,1,1,0,Unknown,1.0,0.0,0.0,4,0,0,2
+63218,7692929,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,26,Loss,3,32,32,30000,1,1,0,Unknown,0.904762,0.095238,0.0,3,0,0,2
+63231,7693180,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,39,Won,5,0,0,0,1,1,3,Unknown,0.0,0.0,0.333333,1,1,1,2
+63245,7698043,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,41,41,60000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+63311,7708989,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,54,Loss,2,3,3,120000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+63382,7713630,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,5,40,40,8000,1,1,0,Unknown,0.0,0.6930689999999999,0.306931,1,2,0,2
+63416,7717418,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,3,2,2,50000,1,1,0,Known,0.0,0.0,1.0,4,0,1,0
+63445,7720690,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,26,Loss,3,31,5,100000,1,1,0,Unknown,0.0,0.147541,0.0,5,2,0,2
+63485,7724018,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,5,40,40,50000,1,1,0,Unknown,0.711779,0.288221,0.0,4,2,0,2
+63506,7724366,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,53,Loss,2,4,4,30000,1,1,0,Unknown,0.0,1.0,0.0,3,0,0,2
+63534,7724889,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,22,Loss,2,34,34,30000,1,1,0,None,0.0,1.0,0.0,3,0,0,1
+63618,7732506,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,46,Loss,3,11,11,120000,1,1,0,Known,0.0,0.314286,0.685714,5,0,0,0
+63638,7735233,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,35,Loss,2,22,22,6016,1,1,0,Unknown,0.0,1.0,0.0,1,2,0,2
+63661,7735748,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,54,Loss,2,2,2,15000,1,1,0,Unknown,0.0,0.0,1.0,2,0,0,2
+63725,7746805,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,39,39,100000,1,1,0,Unknown,0.0,1.0,0.0,5,2,0,2
+63737,7746971,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,37,Won,4,18,14,479000,1,1,2,Unknown,0.0,0.11413,0.663043,6,0,1,2
+63815,7755538,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,43,Loss,3,12,12,15000,1,1,0,Unknown,0.042735,0.957265,0.0,2,2,0,2
+63834,7758317,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,6,38,38,50000,1,1,0,Known,0.0,0.398417,0.601583,4,2,0,0
+63843,7758541,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,54,Loss,1,0,0,0,1,1,0,Unknown,0.0,0.0,0.0,1,0,0,2
+63844,7758601,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,2,33,33,500000,1,1,0,Unknown,0.0,0.0,1.0,7,0,0,2
+63846,7758630,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,2,33,33,100000,1,1,0,Known,0.0,0.0,1.0,5,0,0,0
+63859,7758747,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,54,Loss,1,0,0,0,1,1,0,Unknown,0.0,0.0,0.0,1,0,0,2
+64000,7768614,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,26,Loss,2,28,28,200000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+64019,7771068,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,12,Loss,4,42,42,110000,1,1,2,Known,0.128878,0.656325,0.214797,5,0,0,0
+64091,7777354,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Loss,3,34,34,400000,1,1,2,Unknown,0.491228,0.508772,0.0,6,0,0,2
+64107,7777841,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,46,Loss,3,7,7,200000,1,1,3,Known,0.09589,0.0,0.90411,5,0,0,0
+64141,7781957,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,27,Loss,3,26,26,20000,1,1,0,Unknown,0.0,0.026515,0.973485,2,0,0,2
+64147,7782054,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,40,Loss,3,14,14,150000,1,1,0,Known,0.0,0.043478,0.956522,5,0,0,0
+64153,7784839,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,41,Loss,2,12,12,25000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+64177,7785399,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,51,Loss,3,3,3,60000,1,1,0,Known,0.0,0.192308,0.807692,4,2,0,0
+64181,7785504,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,53,Loss,2,1,1,150000,1,1,0,None,0.0,0.0,1.0,5,0,0,1
+64234,7788326,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Won,2,8,8,150000,1,1,0,None,0.0,1.0,0.0,5,0,1,1
+64235,7788333,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,48,Loss,2,5,5,200000,1,1,0,None,0.0,1.0,0.0,5,0,0,1
+64265,7791503,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,46,Loss,5,5,5,105000,1,1,0,Known,0.0,0.93617,0.06383,5,0,0,0
+64321,7795498,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,25,Loss,2,28,28,4750,1,1,0,Unknown,0.0,0.0,1.0,1,0,0,2
+64340,7796493,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,3,9,9,15000,1,1,0,Unknown,0.0,0.010989,0.989011,2,2,0,2
+64381,7800924,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,5,Loss,3,48,48,30000,1,1,0,Unknown,0.062762,0.937238,0.0,3,0,0,2
+64423,7805051,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Loss,2,34,34,10000,1,1,0,None,0.0,1.0,0.0,2,0,0,1
+64426,7805148,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,41,Won,5,6,2,20000,1,1,0,Unknown,0.0,0.125,0.171875,2,0,1,2
+64452,7808266,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,41,Loss,2,12,12,105000,1,1,0,None,0.0,1.0,0.0,5,0,0,1
+64499,7812281,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,36,36,30000,1,1,0,Unknown,1.0,0.0,0.0,3,0,0,2
+64522,7814630,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,37,Loss,3,15,15,14850,1,1,0,Unknown,0.0,0.0,1.0,2,1,0,2
+64533,7814995,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,49,Loss,2,3,3,120000,1,1,0,None,0.0,0.0,1.0,5,0,0,1
+64536,7815037,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,51,Loss,2,1,1,150000,1,1,0,None,0.0,0.0,1.0,5,0,0,1
+64539,7815062,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,24,Loss,2,28,28,250000,1,1,0,None,0.0,1.0,0.0,6,0,0,1
+64608,7824262,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,2,34,34,100000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+64618,7824471,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,48,Won,6,3,2,10000,1,1,1,Unknown,0.0,0.034483,0.758621,2,2,1,2
+64620,7824482,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,28,Loss,3,24,24,230000,1,1,0,Unknown,0.0,0.855967,0.144033,5,0,0,2
+64634,7827370,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,35,Won,2,17,17,50000,1,1,0,Unknown,0.0,1.0,0.0,4,2,1,2
+64635,7827371,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,35,Loss,2,17,17,40000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+64740,7836050,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Loss,3,28,28,110000,1,1,0,Unknown,0.0,0.02847,0.97153,5,0,0,2
+64771,7840051,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,51,Loss,1,0,0,110000,1,1,0,Unknown,0.0,0.0,0.0,5,0,0,2
+64772,7840058,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,39,Loss,2,12,12,250000,1,1,0,Unknown,0.0,1.0,0.0,6,0,0,2
+64773,7840066,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,1,Loss,3,50,50,120000,1,1,0,Known,0.0,0.302187,0.697813,5,0,0,0
+64807,7844198,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,27,Loss,3,24,24,110000,1,1,3,Unknown,0.423868,0.576132,0.0,5,0,0,2
+64858,7847857,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,5,Won,5,38,38,110000,1,1,0,Unknown,0.0,0.908854,0.075521,5,0,1,2
+64861,7847985,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,35,35,30000,1,1,0,Unknown,0.011527,0.988473,0.0,3,2,0,2
+64862,7847998,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,13,Loss,5,36,36,30000,1,1,0,Unknown,0.01108,0.98892,0.0,3,2,0,2
+65046,7855531,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,39,Won,5,4,4,0,1,1,1,Unknown,0.0,0.8536590000000001,0.02439,1,1,1,2
+65062,7855635,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Loss,4,32,32,100000,1,1,0,Unknown,0.0,0.736025,0.263975,5,0,0,2
+65074,7855810,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,47,Loss,3,4,4,50000,1,1,0,Unknown,0.0,0.404762,0.595238,4,2,0,2
+65138,7856867,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,3,30,30,200000,1,1,0,Unknown,0.7322029999999999,0.267797,0.0,5,0,0,2
+65179,7860985,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,34,Won,5,4,3,1,1,1,2,Unknown,0.5428569999999999,0.0,0.428571,1,1,1,2
+65180,7861118,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,4,33,33,558000,1,1,0,Known,0.006079,0.647416,0.346505,7,0,0,0
+65269,7867812,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,40,Won,4,10,10,27000,1,1,0,Unknown,0.0,0.27722800000000003,0.722772,3,0,1,2
+65305,7871764,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,48,Loss,2,2,2,200000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+65356,7875851,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,39,Won,5,3,3,0,1,1,3,Unknown,0.8235290000000001,0.0,0.029412,1,1,1,2
+65412,7880494,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,24,Loss,2,26,26,32000,1,1,0,Known,0.0,0.0,1.0,3,0,0,0
+65446,7884724,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,19,Loss,2,31,31,600000,1,1,0,Unknown,0.0,1.0,0.0,7,2,0,2
+65483,7888395,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,46,Won,3,4,4,17536,1,1,0,Unknown,0.428571,0.0,0.571429,2,2,1,2
+65729,7905708,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,13,Loss,3,36,0,35000,1,1,0,Unknown,0.0,0.002793,0.0,3,2,0,2
+65746,7906093,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,27,Loss,5,22,22,70000,1,1,0,None,0.0,0.8235290000000001,0.17647100000000002,4,2,0,1
+65762,7906564,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,36,Loss,2,13,0,60000,1,1,0,Unknown,0.0,0.0,0.0,4,0,0,2
+65777,7906835,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,24,Loss,2,25,25,100000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+65780,7906841,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,49,Loss,2,1,1,70000,1,1,0,Known,0.0,1.0,0.0,4,0,0,0
+65806,7909839,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,3,28,28,250000,1,1,0,Unknown,0.101083,0.898917,0.0,6,0,0,2
+65827,7910214,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Loss,4,26,13,60000,1,1,0,Unknown,0.0,0.30916,0.19084,4,0,0,2
+65898,7914841,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,8,32,30,120000,1,1,0,Unknown,0.0,0.798762,0.123839,5,2,0,2
+65914,7918975,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,32,32,130000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+65990,7925175,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,39,Won,5,0,0,0,1,1,0,Unknown,0.0,0.0,0.333333,1,1,1,2
+66011,7929808,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,32,32,56000,1,1,0,None,1.0,0.0,0.0,4,0,0,1
+66013,7929828,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,27,Loss,3,21,21,120000,1,1,0,Unknown,0.07142899999999999,0.928571,0.0,5,0,0,2
+66075,7936363,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,13,Loss,3,35,0,25000,1,1,0,Known,0.0,0.008570999999999999,0.0,3,2,0,0
+66106,7941242,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,13,Won,8,12,12,16000,1,1,0,Unknown,0.016807,0.445378,0.5378149999999999,2,2,1,2
+66110,7941300,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,30,Loss,3,7,7,22000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+66178,7947157,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,37,Loss,3,11,11,105000,1,1,0,Unknown,0.625,0.375,0.0,5,0,0,2
+66182,7947276,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,3,Loss,7,45,45,60000,1,1,0,Known,0.0,0.693512,0.30648800000000004,4,2,0,0
+66221,7952359,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,48,Loss,1,0,0,110000,1,1,0,Known,0.0,0.0,0.0,5,0,0,0
+66230,7952665,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Loss,2,25,25,110000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+66234,7952731,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Loss,3,3,3,270000,1,1,0,Known,0.0,0.310345,0.689655,6,0,0,0
+66237,7952790,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Won,4,11,11,210000,1,1,4,Unknown,0.0,0.08035700000000001,0.919643,5,0,1,2
+66241,7952830,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,23,Won,6,10,9,2,1,1,3,Unknown,0.1875,0.708333,0.03125,1,1,1,2
+66352,7963874,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,36,Won,3,12,12,170004,1,1,2,Known,0.0,0.02521,0.97479,5,2,1,0
+66376,7968419,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,43,Loss,3,4,4,200000,1,1,0,Unknown,0.0,0.404762,0.595238,5,0,0,2
+66387,7968641,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,43,Loss,4,2,2,102000,1,1,0,Unknown,0.0625,0.0,0.9375,5,0,0,2
+66396,7968937,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,47,Loss,2,0,0,200000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+66402,7969052,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,37,Won,3,11,11,100000,1,1,2,Known,0.0,0.4859810000000001,0.514019,5,0,1,0
+66404,7969060,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,46,Loss,2,2,2,200000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+66414,7969299,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,20,Loss,2,27,27,160000,1,1,4,Unknown,0.0,1.0,0.0,5,2,0,2
+66417,7969381,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Loss,4,3,3,15000,1,1,0,Unknown,0.484848,0.515152,0.0,2,2,0,2
+66441,7973448,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,37,Won,2,10,10,23500,1,1,2,Unknown,0.0,0.0,1.0,2,1,1,2
+66518,7978951,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,47,Won,2,1,0,10000,1,1,0,None,0.0,0.0,0.0,2,0,1,1
+66532,7979398,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,39,Loss,4,8,8,90000,1,1,2,Unknown,0.0,0.818182,0.181818,4,2,0,2
+66570,7983765,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,5,31,31,40000,1,1,0,Unknown,0.0,0.836601,0.163399,3,2,0,2
+66589,7987471,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Won,2,3,3,20000,1,1,0,Unknown,0.0,0.0,1.0,2,2,1,2
+66682,7993773,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,26,Loss,2,21,21,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+66725,7998095,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,46,Won,2,0,0,48000,1,1,3,Unknown,0.0,0.0,1.0,3,0,1,2
+66731,7998205,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,41,Loss,3,6,6,150000,1,1,0,Unknown,0.017856999999999998,0.982143,0.0,5,0,0,2
+66745,7998423,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,44,Won,2,2,2,55000,1,1,0,Unknown,0.0,1.0,0.0,4,2,1,2
+66779,8002900,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,4,29,29,50000,1,1,0,Known,0.003497,0.996503,0.0,4,0,0,0
+66825,8008579,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,26,Loss,3,21,21,50000,1,1,0,Unknown,0.004831,0.995169,0.0,4,0,0,2
+66826,8008587,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,18,Loss,3,29,29,50000,1,1,0,Unknown,0.003497,0.996503,0.0,4,2,0,2
+66829,8008647,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,36,Loss,2,10,10,24000,1,1,0,None,0.0,1.0,0.0,2,0,0,1
+66862,8012260,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,37,Won,3,10,10,25000,1,1,1,Unknown,0.0,0.031579,0.968421,3,2,1,2
+66917,8021761,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,32,Loss,3,12,12,1,1,1,3,Unknown,0.0,1.0,0.0,1,1,0,2
+66941,8022375,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,35,Loss,2,11,11,30000,1,1,0,None,0.0,1.0,0.0,3,0,0,1
+66991,8026449,Batteries & Accessories,Car Accessories,Mid-Atlantic,Telesales,23,Loss,2,22,22,0,1,1,0,Known,1.0,0.0,0.0,1,4,0,0
+66992,8026461,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,37,Won,5,9,7,25000,1,1,0,Known,0.552941,0.035294,0.282353,3,0,1,0
+66998,8026599,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,3,24,24,200000,1,1,3,None,0.0,0.659836,0.340164,5,0,0,1
+67075,8033751,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,36,Loss,2,9,9,20000,1,1,0,Unknown,0.0,1.0,0.0,2,0,0,2
+67112,8034699,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,29,29,90189,1,1,0,Unknown,0.0,0.131944,0.8680559999999999,4,2,0,2
+67118,8037857,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,10,Won,4,17,10,15000,1,1,4,Unknown,0.0,0.0,0.6190479999999999,2,0,1,2
+67151,8038566,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,28,Loss,5,17,17,20000,1,1,0,None,0.0,0.005747,0.994253,2,2,0,1
+67161,8038675,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,26,Loss,2,20,20,33443,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+67184,8042862,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Won,3,20,20,15000,1,1,2,Unknown,0.0,0.0,1.0,2,0,1,2
+67207,8043231,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,29,29,55000,1,1,0,Known,0.0,1.0,0.0,4,0,0,0
+67247,8047280,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,29,29,60000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+67339,8054492,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,10,Won,4,35,34,245000,1,1,4,None,0.0,0.845714,0.122857,5,0,1,1
+67351,8054750,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,45,Loss,1,0,0,150000,1,1,0,Unknown,0.0,0.0,0.0,5,0,0,2
+67372,8055005,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Won,3,21,21,3093,1,1,0,Unknown,0.0,0.0,1.0,1,0,1,2
+67383,8055110,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,28,28,40000,1,1,0,Unknown,0.156584,0.8434159999999999,0.0,3,2,0,2
+67388,8055248,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,26,Loss,3,19,19,30000,1,1,0,Unknown,0.194737,0.8052630000000001,0.0,3,2,0,2
+67416,8059131,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,17,Loss,2,28,28,35000,1,1,0,Unknown,0.0,0.0,1.0,3,0,0,2
+67450,8063769,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,20,Won,4,17,17,560000,1,1,0,Unknown,0.963855,0.0,0.036145,7,0,1,2
+67514,8068304,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,44,Loss,1,0,0,150000,1,1,0,Unknown,0.0,0.0,0.0,5,0,0,2
+67518,8068359,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,16,Loss,2,28,28,130000,1,1,0,Unknown,1.0,0.0,0.0,5,1,0,2
+67563,8072139,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,6,28,28,8000,1,1,0,Unknown,0.115523,0.815884,0.068592,1,2,0,2
+67606,8075769,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,27,27,30000,1,1,0,Unknown,0.10583900000000003,0.8941610000000001,0.0,3,2,0,2
+67607,8075802,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,6,Loss,9,28,28,30000,1,1,0,Unknown,0.105072,0.8949280000000001,0.0,3,2,0,2
+67608,8075803,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,22,Loss,3,21,21,30000,1,1,0,Unknown,0.13551400000000002,0.8644860000000001,0.0,3,2,0,2
+67610,8075810,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,27,27,30000,1,1,0,Unknown,0.10583900000000003,0.8941610000000001,0.0,3,2,0,2
+67611,8075820,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,27,27,30000,1,1,0,Known,0.007298999999999998,0.992701,0.0,3,2,0,0
+67612,8075823,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Loss,3,21,21,30000,1,1,0,Unknown,0.141463,0.8585370000000001,0.0,3,0,0,2
+67632,8076206,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,24,24,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+67666,8079969,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,38,Loss,2,6,6,15000,1,1,0,Unknown,0.0,1.0,0.0,2,0,0,2
+67711,8080762,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,26,Won,2,18,18,10130,1,1,2,Unknown,0.0,1.0,0.0,2,2,1,2
+67776,8088705,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,35,Loss,2,8,8,80000,1,1,0,Unknown,1.0,0.0,0.0,4,0,0,2
+67797,8089361,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,31,Loss,4,13,13,90000,1,1,0,Unknown,0.873016,0.126984,0.0,4,2,0,2
+67864,8096069,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,43,Loss,1,0,0,500000,1,1,0,Unknown,0.0,0.0,0.0,7,0,0,2
+67877,8096270,Batteries & Accessories,Car Accessories,Mid-Atlantic,Telesales,27,Loss,3,17,17,20000,1,1,0,Unknown,0.13333299999999998,0.866667,0.0,2,4,0,2
+67933,8100716,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,34,Loss,3,9,9,30000,1,1,0,Unknown,0.25,0.75,0.0,3,2,0,2
+67937,8100744,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,5,27,16,25000,1,1,0,Unknown,0.078947,0.5037590000000001,0.015038,3,0,0,2
+67963,8101083,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,33,Loss,4,10,10,48000,1,1,0,Unknown,0.787879,0.050505,0.161616,3,0,0,2
+68009,8104793,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,9,Loss,5,34,34,50000,1,1,0,Unknown,0.0,0.350877,0.649123,4,2,0,2
+68124,8117466,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,24,Won,4,19,15,110000,1,1,3,Unknown,0.0,0.037838,0.762162,5,0,1,2
+68131,8117523,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,23,Won,5,4,3,1,1,1,0,Unknown,0.8611110000000001,0.0,0.083333,1,1,1,2
+68133,8117585,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,14,Loss,3,28,28,150000,1,1,0,None,0.060498,0.939502,0.0,5,0,0,1
+68182,8124116,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,15,Loss,5,27,27,110000,1,1,0,Unknown,0.10989000000000003,0.8901100000000001,0.0,5,0,0,2
+68228,8131075,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,26,26,120000,1,1,0,Known,0.0,0.0,1.0,5,0,0,0
+68238,8131330,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,18,Won,5,22,22,55000,1,1,0,Unknown,0.0,0.569444,0.4305560000000001,4,2,1,2
+68240,8131346,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,26,26,60000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+68246,8131512,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,26,26,40000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+68269,8135250,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,4,21,21,400000,1,1,0,Known,0.038095,0.814286,0.147619,6,0,0,0
+68322,8139337,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Won,3,17,17,1429,1,1,0,Unknown,0.0,0.3,0.7,1,2,1,2
+68328,8139409,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,2,17,17,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+68347,8144428,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,27,Won,4,4,4,35000,1,1,0,None,0.0,0.954545,0.045455,3,0,1,1
+68464,8152610,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,8,Loss,5,31,31,40000,1,1,4,Known,0.0,1.0,0.0,3,2,0,0
+68487,8157681,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,40,Loss,2,1,1,27000,1,1,0,Unknown,0.0,0.0,1.0,3,2,0,2
+68496,8157869,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,28,Won,3,13,11,100000,1,1,0,None,0.0,0.0,0.81203,5,0,1,1
+68607,8167293,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,40,Loss,2,1,1,30000,1,1,0,Unknown,0.0,1.0,0.0,3,0,0,2
+68614,8167436,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,3,19,19,40000,1,1,0,Unknown,0.005155,0.0,0.994845,3,0,0,2
+68617,8167504,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,15,Loss,3,26,26,230000,1,1,0,Unknown,0.0,0.191571,0.808429,5,0,0,2
+68626,8167771,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Won,7,7,7,50000,1,1,4,Unknown,0.0,1.0,0.0,4,2,1,2
+68646,8171340,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,23,Won,5,12,12,0,1,1,2,Unknown,0.798387,0.0,0.193548,1,1,1,2
+68662,8171731,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,2,23,23,200000,1,1,4,Known,0.0,1.0,0.0,5,0,0,0
+68718,8175877,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,9,Loss,4,32,32,30000,1,1,0,Unknown,0.0,0.557994,0.4420060000000001,3,2,0,2
+68728,8176026,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,37,Loss,2,4,4,40000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+68732,8178579,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,25,Loss,2,0,0,120000,1,1,0,Unknown,0.0,0.0,0.0,5,0,0,2
+68761,8179452,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,39,Loss,3,2,2,100000,1,1,0,Unknown,0.2,0.0,0.8,5,0,0,2
+68796,8182788,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,6,Loss,4,35,35,90000,1,1,0,Known,0.06666699999999999,0.078261,0.8550719999999999,4,0,0,0
+68798,8182904,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,39,Won,2,1,1,26000,1,1,1,Unknown,0.0,0.0,1.0,3,2,1,2
+68803,8183131,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,24,24,200000,1,1,0,Unknown,0.0,1.0,0.0,5,2,0,2
+68921,8191182,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,38,Won,2,3,3,5000,1,1,0,None,0.0,0.0,1.0,1,0,1,1
+68935,8191368,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,24,24,40000,1,1,0,Unknown,1.0,0.0,0.0,3,2,0,2
+69074,8198604,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,18,Won,3,21,21,30000,1,1,2,None,0.0,0.481132,0.518868,3,2,1,1
+69127,8202376,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,2,19,19,20000,1,1,0,Unknown,1.0,0.0,0.0,2,0,0,2
+69135,8202566,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Loss,2,16,16,20000,1,1,0,None,0.0,1.0,0.0,2,2,0,1
+69167,8203048,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,23,23,20000,1,1,0,Unknown,0.627706,0.372294,0.0,2,2,0,2
+69231,8208418,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,31,Loss,4,4,4,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+69314,8216091,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,3,18,18,150000,1,1,0,Unknown,0.0,0.174157,0.825843,5,0,0,2
+69324,8216216,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,36,Won,3,3,3,18228,1,1,0,Unknown,0.0,0.75,0.25,2,2,1,2
+69365,8219572,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,28,Loss,3,11,11,155000,1,1,0,Unknown,0.0,0.769912,0.230088,5,0,0,2
+69367,8219583,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,3,23,23,60,1,1,0,Known,0.0,0.581897,0.418103,1,0,0,0
+69491,8227812,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,22,22,40000,1,1,0,Unknown,0.0,1.0,0.0,3,0,0,2
+69537,8232155,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,35,Loss,2,3,3,50000,1,1,0,Unknown,1.0,0.0,0.0,4,0,0,2
+69644,8240492,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,3,21,21,200000,1,1,0,Unknown,0.05314,0.94686,0.0,5,0,0,2
+69857,8253808,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,33,Won,3,4,4,22000,1,1,0,None,0.0,0.0,1.0,2,0,1,1
+69934,8257494,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,3,21,21,110000,1,1,4,Unknown,0.028037,0.971963,0.0,5,0,0,2
+69937,8257527,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,3,20,20,100000,1,1,0,Unknown,0.0,0.8768469999999999,0.123153,5,0,0,2
+70067,8264752,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,28,Won,5,10,8,90000,1,1,0,Known,0.131313,0.565657,0.070707,4,0,1,0
+70091,8265266,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,27,Loss,3,10,6,6580,1,1,0,Unknown,0.0,0.0,0.567308,1,0,0,2
+70207,8270458,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,3,22,22,77000,1,1,0,None,0.0,0.451163,0.548837,4,0,0,1
+70225,8270802,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,21,21,45000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+70226,8270834,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,37,Won,2,1,1,30000,1,1,0,Unknown,0.0,1.0,0.0,3,2,1,2
+70264,8275060,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,21,21,70000,1,1,0,None,1.0,0.0,0.0,4,0,0,1
+70322,8279122,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,32,Loss,2,5,5,1,1,1,4,Unknown,0.0,1.0,0.0,1,1,0,2
+70359,8283060,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Won,3,18,18,122000,1,1,2,Known,0.0,0.431694,0.5683060000000001,5,0,1,0
+70445,8287748,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,10,Loss,3,26,26,110000,1,1,0,Unknown,0.371212,0.0,0.628788,5,0,0,2
+70446,8287809,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,3,15,15,100000,1,1,0,Unknown,0.424837,0.575163,0.0,5,0,0,2
+70458,8288169,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,20,20,30000,1,1,0,Unknown,0.0,0.004926,0.995074,3,2,0,2
+70669,8303462,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,36,Loss,1,0,0,120000,1,1,0,Unknown,0.0,0.0,0.0,5,0,0,2
+70731,8306397,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,20,20,30000,1,1,0,Unknown,1.0,0.0,0.0,3,0,0,2
+70829,8315557,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,2,11,11,30000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+70868,8318638,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,36,Loss,1,0,0,60000,1,1,0,Unknown,0.0,0.0,0.0,4,2,0,2
+70888,8321835,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,25,Loss,2,10,10,150000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+70995,8324992,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,35,Loss,2,0,0,100000,1,1,0,Unknown,0.0,1.0,0.0,5,2,0,2
+71024,8327447,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,5,Won,3,30,15,300000,1,1,4,Known,0.0,0.488372,0.0,6,0,1,0
+71258,8343664,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,11,Loss,4,23,23,27480,1,1,0,Unknown,0.0,0.377682,0.622318,3,2,0,2
+71269,8343996,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,30,Loss,2,4,4,100000,1,1,4,Unknown,0.0,1.0,0.0,5,2,0,2
+71273,8347179,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,3,17,12,18000,1,1,0,Unknown,0.0,0.0,0.7185630000000001,2,0,0,2
+71274,8347306,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,3,Won,7,31,31,40000,1,1,0,Unknown,0.0,0.28338800000000003,0.716612,3,2,1,2
+71323,8351021,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Loss,2,11,11,120000,1,1,0,Known,0.0,0.0,1.0,5,0,0,0
+71377,8354331,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,3,13,13,110000,1,1,0,Unknown,0.259542,0.740458,0.0,5,0,0,2
+71442,8358079,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,20,Loss,3,14,14,20000,1,1,0,Unknown,0.267606,0.732394,0.0,2,2,0,2
+71451,8358251,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,5,Won,8,28,28,22000,1,1,4,Unknown,0.0,1.0,0.0,2,2,1,2
+71519,8365202,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,5,12,12,25000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+71556,8365995,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,17,17,95000,1,1,0,Unknown,0.0,0.005747,0.994253,4,2,0,2
+71566,8368865,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,31,Won,2,3,3,25000,1,1,0,Unknown,0.0,1.0,0.0,3,2,1,2
+71570,8368921,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,3,17,17,25000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+71585,8369329,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Loss,4,17,17,29000,1,1,0,Unknown,0.0,0.00578,0.99422,3,2,0,2
+71617,8372115,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,31,Loss,2,3,3,27859,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+71626,8372259,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,29,Won,4,5,5,29925,1,1,0,Unknown,0.0,0.0625,0.916667,3,2,1,2
+71662,8378909,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,3,12,12,150000,1,1,0,Unknown,0.0,0.016807,0.983193,5,0,0,2
+71669,8380335,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,28,Loss,2,6,6,13000,1,1,2,Unknown,1.0,0.0,0.0,2,2,0,2
+71690,8382852,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,22,Won,5,11,8,77000,1,1,0,Unknown,0.0,0.575221,0.132743,4,2,1,2
+71702,8384591,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,23,Won,2,10,10,10308,1,1,2,Unknown,0.0,1.0,0.0,2,2,1,2
+71784,8407458,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,20,Loss,3,12,12,650000,1,1,0,Known,0.0,0.086207,0.913793,7,0,0,0
+71879,8421871,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,14,Loss,3,17,17,200000,1,1,0,Unknown,0.011696,0.988304,0.0,5,0,0,2
+71880,8421946,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,22,Loss,4,9,9,350000,1,1,4,Unknown,0.021277,0.223404,0.755319,6,0,0,2
+71882,8422221,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,20,Loss,3,11,11,500000,1,1,4,Unknown,0.018018,0.981982,0.0,7,0,0,2
+71884,8422284,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,22,Loss,4,9,9,300000,1,1,4,Unknown,0.021277,0.223404,0.755319,6,0,0,2
+71924,8430212,Batteries & Accessories,Car Accessories,Mid-Atlantic,Telesales,16,Loss,2,15,15,0,1,1,0,Unknown,0.0,1.0,0.0,1,4,0,2
+72007,8439940,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Loss,3,12,12,110000,1,1,0,Unknown,0.0,0.069565,0.930435,5,0,0,2
+72008,8439989,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Loss,2,8,8,150000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+72039,8443485,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,18,Won,2,13,13,70000,1,1,4,None,0.0,0.0,1.0,4,2,1,1
+72046,8444964,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Won,2,6,6,45138,1,1,3,Unknown,0.0,1.0,0.0,3,2,1,2
+72103,8449924,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,10,Won,4,2,2,110000,1,1,3,Unknown,0.0,0.166667,0.833333,5,0,1,2
+72127,8452490,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,20,Loss,4,9,9,100000,1,1,0,Unknown,0.148936,0.234043,0.617021,5,0,0,2
+72132,8453109,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Loss,2,6,6,110000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+72153,8454068,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,27,Loss,2,3,3,20000,1,1,0,None,0.0,1.0,0.0,2,0,0,1
+72175,8455023,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,11,Loss,2,18,18,100000,1,1,3,Unknown,1.0,0.0,0.0,5,0,0,2
+72181,8455355,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,21,Loss,6,9,9,20000,1,1,0,Unknown,0.0,0.622222,0.377778,2,2,0,2
+72201,8456769,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Won,5,8,8,0,1,1,0,Known,0.0125,0.0,0.9875,1,0,1,0
+72215,8457715,Batteries & Accessories,Car Accessories,Mid-Atlantic,Telesales,2,Loss,2,28,28,150000,1,1,0,Unknown,1.0,0.0,0.0,5,4,0,2
+72250,8461744,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,26,Loss,3,4,4,200000,1,1,0,Unknown,0.638889,0.361111,0.0,5,0,0,2
+72298,8463836,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Won,3,11,11,108000,1,1,4,Unknown,0.0,0.810811,0.189189,5,0,1,2
+72315,8465626,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,20,Loss,2,9,9,90000,1,1,0,None,0.0,1.0,0.0,4,2,0,1
+72324,8466781,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,25,Loss,3,4,4,500000,1,1,0,Unknown,0.595238,0.404762,0.0,7,0,0,2
+72325,8466814,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,28,Loss,2,1,1,250000,1,1,0,Unknown,1.0,0.0,0.0,6,0,0,2
+72327,8466826,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,25,Loss,2,4,4,300000,1,1,0,Unknown,1.0,0.0,0.0,6,0,0,2
+72330,8466839,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,26,Loss,2,4,4,500000,1,1,0,Unknown,0.0,0.0,1.0,7,0,0,2
+72333,8466864,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,25,Loss,2,0,0,200000,1,1,0,Unknown,0.0,0.0,0.0,5,0,0,2
+72378,8469274,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,13,13,250000,1,1,0,Unknown,0.0,1.0,0.0,6,0,0,2
+72383,8469981,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,13,13,250000,1,1,0,Unknown,0.0,1.0,0.0,6,0,0,2
+72437,8473207,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,8,Won,4,11,11,37000,1,1,0,Unknown,0.0,0.0,1.0,3,0,1,2
+72478,8475894,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,2,12,12,300000,1,1,0,Unknown,0.0,1.0,0.0,6,0,0,2
+72500,8477537,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,19,Won,5,10,10,30000,1,1,0,Unknown,0.298077,0.009615,0.692308,3,2,1,2
+72511,8478279,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,1,Loss,2,28,28,200000,1,1,4,Unknown,0.0,0.0,1.0,5,0,0,2
+72655,8488468,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,14,Loss,4,13,13,40000,1,1,0,None,0.7120000000000001,0.28800000000000003,0.0,3,0,0,1
+72672,8489797,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,9,Loss,3,19,19,31920,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+72686,8491262,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,7,Loss,3,22,22,40000,1,1,0,None,1.0,0.0,0.0,3,2,0,1
+72740,8494843,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Loss,2,9,9,90000,1,1,0,Unknown,0.0,0.0,1.0,4,0,0,2
+72754,8495402,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,28,Loss,2,1,1,20000,1,1,2,Unknown,1.0,0.0,0.0,2,0,0,2
+72791,8497784,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Won,2,4,4,80000,1,1,3,Unknown,0.0,1.0,0.0,4,2,1,2
+72820,8500431,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,8,Won,3,10,10,10000,1,1,0,None,0.0,0.0,1.0,2,2,1,1
+72959,8510411,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Loss,3,0,0,13499,1,1,2,Unknown,0.0,1.0,0.0,2,2,0,2
+73002,8512971,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,7,Loss,4,21,21,30000,1,1,0,None,0.014354,0.985646,0.0,3,2,0,1
+73016,8514185,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,25,Won,2,3,3,3500,1,1,1,Unknown,0.0,1.0,0.0,1,2,1,2
+73068,8516876,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,2,7,7,110000,1,1,0,Unknown,0.0,0.0,1.0,5,0,0,2
+73127,8520704,Batteries & Accessories,Car Accessories,Mid-Atlantic,Telecoverage,7,Loss,3,20,20,50000,1,1,0,Unknown,0.029557,0.970443,0.0,4,3,0,2
+73191,8527162,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,17,Loss,2,10,10,350000,1,1,0,Unknown,0.0,1.0,0.0,6,0,0,2
+73230,8529679,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,7,Loss,4,20,20,5000,1,1,0,None,0.0,1.0,0.0,1,2,0,1
+73255,8531531,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,11,Loss,3,16,16,50000,1,1,0,Unknown,0.012579,0.987421,0.0,4,0,0,2
+73311,8535512,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,14,Loss,2,13,13,105000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+73370,8540326,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,2,9,9,140000,1,1,0,Known,0.0,0.0,1.0,5,0,0,0
+73462,8547628,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Loss,4,8,7,205000,1,1,0,Unknown,0.0,0.320988,0.592593,5,0,0,2
+73481,8549095,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,21,Won,2,6,6,40000,1,1,4,Unknown,0.0,1.0,0.0,3,2,1,2
+73543,8553743,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,17,Loss,2,10,10,0,1,1,0,Unknown,1.0,0.0,0.0,1,0,0,2
+73601,9356819,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,15,Loss,3,12,12,300000,1,1,4,Unknown,0.24347800000000006,0.0,0.756522,6,0,0,2
+73602,9356886,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,2,9,9,300000,1,1,3,Unknown,1.0,0.0,0.0,6,0,0,2
+73616,9357635,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,24,Won,3,2,2,31608,1,1,0,Unknown,0.0,0.045455,0.954545,3,2,1,2
+73643,9360133,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,3,5,5,151000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+73660,9361210,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,9,Loss,4,17,17,120000,1,1,0,Unknown,0.294798,0.023121,0.682081,5,0,0,2
+73664,9361406,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,2,5,5,400000,1,1,0,Known,0.0,1.0,0.0,6,0,0,0
+73669,9361715,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Loss,3,8,8,160000,1,1,0,Unknown,0.0,0.8947370000000001,0.105263,5,0,0,2
+73680,9363003,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,25,Loss,2,1,1,250000,1,1,0,Unknown,0.0,1.0,0.0,6,0,0,2
+73707,9365521,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,20,Won,2,6,6,24820,1,1,2,Unknown,0.0,1.0,0.0,2,2,1,2
+73748,9370479,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,14,Loss,3,12,12,15000,1,1,0,Unknown,0.547826,0.452174,0.0,2,2,0,2
+73768,9372396,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Won,3,6,6,96770,1,1,0,Unknown,0.0,0.571429,0.428571,4,0,1,2
+73883,9384531,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,17,Loss,3,9,9,250000,1,1,0,Unknown,0.141176,0.858824,0.0,6,0,0,2
+73961,9392333,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,10,Loss,3,15,15,50000,1,1,0,Unknown,0.0,0.767123,0.232877,4,0,0,2
+73962,9392595,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,7,Loss,4,18,18,30000,1,1,0,None,0.005618,0.994382,0.0,3,2,0,1
+73970,9394082,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Loss,2,6,6,200000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+73985,9395998,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,9,Loss,2,15,15,22000,1,1,0,Unknown,1.0,0.0,0.0,2,0,0,2
+73995,9398097,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,2,4,4,140000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+74010,9399668,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,18,Won,2,6,6,117000,1,1,4,Unknown,0.0,1.0,0.0,5,2,1,2
+74018,9400572,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Won,3,5,5,95559,1,1,0,Unknown,0.0,0.259259,0.740741,4,0,1,2
+74064,9404570,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,7,Loss,2,17,17,3000,1,1,0,None,0.0,1.0,0.0,1,1,0,1
+74075,9405397,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,2,7,7,150000,1,1,3,Unknown,0.0,1.0,0.0,5,0,0,2
+74079,9405804,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Loss,3,7,7,95000,1,1,0,Unknown,0.086957,0.913043,0.0,4,0,0,2
+74093,9406496,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,7,Loss,3,18,18,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+74094,9406501,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,7,Loss,3,18,18,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+74167,9413111,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,7,Loss,6,17,17,10000,1,1,0,None,0.082353,0.917647,0.0,2,2,0,1
+74182,9414400,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Loss,2,6,6,110000,1,1,3,Unknown,1.0,0.0,0.0,5,0,0,2
+74191,9414827,Batteries & Accessories,Car Accessories,Mid-Atlantic,Telesales,15,Loss,3,9,9,3000,1,1,0,Unknown,0.065217,0.934783,0.0,1,4,0,2
+74205,9415476,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,2,Loss,2,22,22,45000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+74274,9420960,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,6,Loss,3,18,18,300000,1,1,0,Unknown,0.022099,0.977901,0.0,6,2,0,2
+74292,9422872,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,22,Loss,2,2,2,25000,1,1,0,Unknown,0.0,1.0,0.0,3,0,0,2
+74324,9425842,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,22,Loss,2,2,2,100000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+74351,9428190,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,8,Won,3,2,2,40370,1,1,2,Unknown,0.0,1.0,0.0,3,2,1,2
+74362,9428840,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Loss,2,0,0,105000,1,1,0,Unknown,0.0,0.0,1.0,5,0,0,2
+74364,9429107,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,18,Won,2,6,6,25000,1,1,0,Unknown,0.0,0.0,1.0,3,0,1,2
+74379,9430657,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Loss,3,1,1,30000,1,1,0,Unknown,0.4,0.6,0.0,3,0,0,2
+74400,9433489,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,20,Loss,3,3,3,190000,1,1,0,Unknown,0.741935,0.0,0.258065,5,0,0,2
+74447,9436879,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,22,Loss,2,1,1,110000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+74465,9439584,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,9,Won,4,5,2,22000,1,1,4,Unknown,0.0,0.0,0.319149,2,0,1,2
+74466,9439727,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,14,Loss,3,9,9,50000,1,1,0,Unknown,0.6404489999999999,0.359551,0.0,4,0,0,2
+74481,9442081,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,22,Loss,3,1,1,120000,1,1,4,Unknown,0.0,0.07142899999999999,0.928571,5,2,0,2
+74501,9444449,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,10,Loss,3,13,13,150000,1,1,0,Unknown,0.007692,0.992308,0.0,5,0,0,2
+74579,9451955,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,22,Loss,2,1,1,30000,1,1,0,None,0.0,1.0,0.0,3,2,0,1
+74603,9455738,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,23,Loss,2,0,0,40000,1,1,0,Unknown,0.0,0.0,0.0,3,0,0,2
+74642,9458491,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,21,Won,2,2,2,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,1,2
+74651,9458759,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,19,Won,5,4,3,18032,1,1,0,Unknown,0.0,0.380952,0.285714,2,2,1,2
+74662,9459945,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,9,Loss,2,13,13,95000,1,1,0,Unknown,0.0,1.0,0.0,4,2,0,2
+74689,9464005,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,21,Won,2,2,2,43000,1,1,0,Unknown,0.0,1.0,0.0,3,2,1,2
+74792,9474096,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,14,Loss,2,8,8,110000,1,1,0,Unknown,0.0,0.0,1.0,5,0,0,2
+74793,9474179,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,20,Loss,2,2,2,50000,1,1,0,Unknown,1.0,0.0,0.0,4,0,0,2
+74812,9475562,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,20,Won,3,2,2,74412,1,1,4,Unknown,0.0,0.047619,0.952381,4,2,1,2
+74821,9477841,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,21,Loss,2,1,1,15000,1,1,3,Unknown,0.0,1.0,0.0,2,0,0,2
+74823,9477937,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,20,Won,2,2,0,39980,1,1,0,Unknown,0.0,0.0,0.0,3,0,1,2
+75020,9497781,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,19,Won,3,3,3,27000,1,1,4,Unknown,0.07142899999999999,0.0,0.928571,3,0,1,2
+75051,9503881,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,3,Loss,4,18,18,60000,1,1,0,None,0.417582,0.027473,0.554945,4,0,0,1
+75117,9510629,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,0,Loss,2,21,21,18000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+75192,9518770,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,13,Loss,3,7,7,60000,1,1,0,None,0.0,1.0,0.0,4,2,0,1
+75249,9524254,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,11,Loss,2,9,9,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+75295,9527949,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,19,Won,3,2,2,221000,1,1,4,Unknown,0.0,0.166667,0.833333,5,2,1,2
+75309,9528920,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,15,Won,3,5,0,20000,1,1,3,Unknown,0.0,0.021739,0.0,2,2,1,2
+75342,9532594,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,15,Won,2,5,5,102900,1,1,0,Unknown,0.0,1.0,0.0,5,2,1,2
+75374,9536203,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,1,Loss,2,19,19,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+75422,9541602,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,12,Loss,2,8,8,999,1,1,4,Unknown,0.0,0.0,1.0,1,0,0,2
+75432,9543045,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,11,Loss,2,9,9,316548,1,1,4,Unknown,0.0,1.0,0.0,6,2,0,2
+75434,9543119,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,11,Won,3,9,0,19024,1,1,4,Unknown,0.0,0.034091,0.0,2,2,1,2
+75489,9549914,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,11,Loss,3,8,8,50000,1,1,0,Unknown,0.128205,0.8717950000000001,0.0,4,0,0,2
+75585,9559934,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,18,Won,1,0,0,400000,1,1,0,Unknown,0.0,0.0,0.0,6,2,1,2
+75727,9609758,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,11,Loss,2,6,6,140000,1,1,3,Unknown,0.0,1.0,0.0,5,0,0,2
+75744,9612130,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,15,Won,2,2,2,33257,1,1,0,Unknown,0.0,1.0,0.0,3,2,1,2
+75782,9617995,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,2,Loss,2,15,15,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+75811,9622324,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,14,Loss,3,2,2,80000,1,1,0,None,0.166667,0.0,0.833333,4,2,0,1
+75826,9625474,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,8,Loss,3,8,8,15000,1,1,0,None,0.1625,0.0,0.8375,2,0,0,1
+75906,9627359,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,9,Loss,2,8,8,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+75947,9636031,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,9,Won,2,7,7,40184,1,1,0,Unknown,0.0,1.0,0.0,3,2,1,2
+75958,9637352,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,16,Won,2,0,0,1700,1,1,1,Unknown,0.0,1.0,0.0,1,2,1,2
+75986,9642137,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,16,Loss,2,0,0,110000,1,1,4,Unknown,0.0,0.0,0.0,5,0,0,2
+75987,9642152,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,13,Loss,3,3,3,45000,1,1,0,Unknown,0.08,0.92,0.0,3,0,0,2
+76229,9673467,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,2,Loss,3,13,13,140000,1,1,0,Unknown,0.0,0.6559999999999999,0.344,5,0,0,2
+76234,9674144,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,13,Loss,2,2,2,190000,1,1,3,Unknown,0.0,1.0,0.0,5,0,0,2
+76239,9674414,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,15,Loss,1,0,0,200000,1,1,0,Unknown,0.0,0.0,0.0,5,0,0,2
+76248,9675233,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,5,Won,4,10,7,32000,1,1,4,Unknown,0.0,0.460784,0.22549,3,0,1,2
+76251,9677418,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,4,Loss,2,11,11,40000,1,1,3,Unknown,0.0,1.0,0.0,3,0,0,2
+76252,9677491,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,9,Won,3,5,5,85000,1,1,3,Unknown,0.0,0.792453,0.207547,4,0,1,2
+76274,9679760,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,13,Won,3,2,2,109383,1,1,1,Unknown,0.0,0.14285699999999998,0.857143,5,2,1,2
+76284,9681158,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,13,Won,2,2,2,146048,1,1,3,Unknown,0.0,1.0,0.0,5,2,1,2
+76334,9689290,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,14,Loss,2,1,1,100,1,1,0,Unknown,1.0,0.0,0.0,1,0,0,2
+76384,9694882,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,3,Loss,2,11,11,20000,1,1,0,None,1.0,0.0,0.0,2,2,0,1
+76402,9696681,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,4,Loss,2,10,10,20000,1,1,0,Unknown,1.0,0.0,0.0,2,0,0,2
+76425,9699954,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,2,Loss,3,12,12,110000,1,1,0,Unknown,0.096774,0.0,0.903226,5,0,0,2
+76426,9700206,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,11,Loss,2,3,3,20000,1,1,0,None,0.0,1.0,0.0,2,0,0,1
+76492,9707749,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,11,Won,4,2,2,120000,1,1,3,Unknown,0.0,0.125,0.875,5,0,1,2
+76494,9707833,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,7,Loss,3,7,7,150000,1,1,0,Unknown,0.449275,0.550725,0.0,5,0,0,2
+76520,9709965,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,9,Loss,6,5,5,140000,1,1,0,None,0.08,0.22,0.7,5,2,0,1
+76605,9712470,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,11,Loss,2,3,3,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+76619,9715052,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,3,Loss,2,10,10,110000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+76620,9715105,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,2,Loss,2,11,11,100000,1,1,0,Known,0.0,1.0,0.0,5,0,0,0
+76663,9719776,Batteries & Accessories,Car Accessories,Mid-Atlantic,Telesales,3,Loss,2,11,11,25000,1,1,0,Unknown,0.0,1.0,0.0,3,4,0,2
+76667,9720438,Batteries & Accessories,Car Accessories,Mid-Atlantic,Telesales,3,Loss,2,11,11,60000,1,1,0,Unknown,0.0,1.0,0.0,4,4,0,2
+76677,9722630,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,9,Loss,2,5,5,500000,1,1,0,Unknown,0.0,1.0,0.0,7,0,0,2
+76678,9723026,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,4,Loss,2,10,10,80000,1,1,0,Unknown,1.0,0.0,0.0,4,0,0,2
+76683,9723669,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,0,Won,5,13,7,260000,1,1,3,Known,0.146154,0.061538,0.353846,6,0,1,0
+76690,9724193,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,5,Loss,2,8,8,150000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+76720,9729085,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,12,Loss,2,1,1,50000,1,1,0,Unknown,0.0,0.0,1.0,4,0,0,2
+76721,9729169,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,12,Loss,2,2,2,200000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+76741,9733727,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,13,Loss,1,0,0,50000,1,1,2,Unknown,0.0,0.0,0.0,4,0,0,2
+76746,9734612,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,13,Loss,1,0,0,40000,1,1,2,Unknown,0.0,0.0,0.0,3,0,0,2
+76757,9736307,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,1,Won,4,7,7,154572,1,1,4,Unknown,0.0,0.014706,0.985294,5,2,1,2
+76825,9749532,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,3,Won,2,9,9,40000,1,1,0,Unknown,0.0,1.0,0.0,3,2,1,2
+76858,9756329,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,1,Won,2,11,11,70000,1,1,1,Unknown,0.0,1.0,0.0,4,2,1,2
+76922,9767471,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,9,Won,3,3,3,45000,1,1,2,Unknown,0.0,0.12,0.88,3,0,1,2
+76986,9782792,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,10,Loss,2,1,1,450000,1,1,0,Unknown,1.0,0.0,0.0,6,0,0,2
+76989,9783011,Batteries & Accessories,Car Accessories,Mid-Atlantic,Telesales,5,Loss,3,6,6,50000,1,1,0,None,0.032257999999999995,0.967742,0.0,4,4,0,1
+76991,9783218,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,11,Loss,2,0,0,100000,1,1,0,Unknown,0.0,1.0,0.0,5,0,0,2
+76992,9783245,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,0,Won,2,11,11,500000,1,1,0,Unknown,0.0,0.0,1.0,7,0,1,2
+76998,9784040,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,7,Loss,2,5,5,30000,1,1,0,Unknown,1.0,0.0,0.0,3,0,0,2
+77006,9785049,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,2,Loss,2,9,9,35000,1,1,0,Unknown,0.0,1.0,0.0,3,2,0,2
+77019,9786430,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,8,Loss,3,4,4,120000,1,1,0,Unknown,0.5,0.5,0.0,5,0,0,2
+77096,9797927,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,5,Loss,3,6,4,12229,1,1,0,Unknown,0.587302,0.0,0.0,2,2,0,2
+77114,9800965,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,5,Loss,7,6,6,80000,1,1,0,None,0.169492,0.830508,0.0,4,2,0,1
+77151,9807999,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,11,Loss,2,0,0,60000,1,1,0,Unknown,0.0,0.0,0.0,4,2,0,2
+77205,9817181,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,1,Loss,3,9,9,110000,1,1,0,Unknown,0.8510639999999999,0.148936,0.0,5,0,0,2
+77207,9817638,Batteries & Accessories,Car Accessories,Mid-Atlantic,Other,10,Won,3,1,0,36000,1,1,4,Unknown,0.0,0.5,0.0,3,1,1,2
+77256,9828461,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,9,Loss,2,1,1,100000,1,1,0,Known,1.0,0.0,0.0,5,0,0,0
+77314,9837023,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,10,Loss,2,0,0,20000,1,1,0,Unknown,0.0,1.0,0.0,2,0,0,2
+77355,9843385,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,3,Loss,2,7,7,40000,1,1,0,Unknown,0.0,1.0,0.0,3,0,0,2
+77380,9848669,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,0,Loss,2,9,9,20000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+77400,9855686,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,5,Loss,3,4,4,10000,1,1,0,Unknown,0.0,0.358974,0.641026,2,0,0,2
+77467,9866290,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,0,Loss,3,9,9,10000,1,1,0,Unknown,0.0,1.0,0.0,2,2,0,2
+77549,9887585,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,0,Won,2,8,8,27139,1,1,2,Unknown,0.0,1.0,0.0,3,2,1,2
+77562,9893236,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,0,Loss,3,5,5,50050,1,1,0,Unknown,0.0,1.0,0.0,4,0,0,2
+77630,9919252,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,6,Loss,3,1,1,100000,1,1,0,Unknown,1.0,0.0,0.0,5,0,0,2
+77667,9935433,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,3,Won,3,3,3,51000,1,1,4,Unknown,0.0,0.225806,0.7741939999999999,4,0,1,2
+77712,9943097,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,5,Loss,2,1,1,23688,1,1,3,Unknown,0.0,0.0,1.0,2,0,0,2
+77744,9954858,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,0,Won,3,5,5,92000,1,1,0,Unknown,0.0,0.607843,0.392157,4,0,1,2
+77754,9958148,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,2,Loss,2,3,3,70000,1,1,2,None,0.0,0.0,1.0,4,2,0,1
+77765,9963959,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,1,Won,3,4,4,24000,1,1,3,Unknown,0.0,0.184211,0.815789,2,0,1,2
+77774,9966870,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,0,Won,3,5,5,20000,1,1,3,Unknown,0.0,0.708333,0.291667,2,0,1,2
+77923,10027895,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,1,Won,3,2,2,170000,1,1,4,Unknown,0.0,0.529412,0.470588,5,0,1,2
+77945,10042102,Batteries & Accessories,Car Accessories,Mid-Atlantic,Fields Sales,1,Loss,2,1,1,50000,1,1,0,Unknown,0.0,1.0,0.0,4,0,0,2
+77963,10053194,Batteries & Accessories,Car Accessories,Mid-Atlantic,Reseller,0,Won,3,1,1,1500,1,1,0,None,0.076923,0.923077,0.0,1,2,1,1
